@@ -4,3 +4,9 @@ __pycache__/
 .venv/
 node_modules/
 .DS_Store
+
+# Fora da publicação por licença, não por ser descartável.
+# vercel-labs/agent-skills não declara licença (nem o repo, nem o arquivo),
+# então redistribuir não é permitido. A skill continua no disco e funcionando;
+# se sumir, reinstale do upstream público.
+skills/web-design-guidelines/

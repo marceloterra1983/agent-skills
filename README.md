@@ -37,8 +37,31 @@ repositório de terceiros — 95 das 115. As outras 20 existem só aqui.
 | `anthropics/skills`, `mattpocock/skills`, `vercel-labs/agent-skills`, `shadcn/ui`, e outros | 1 cada |
 | criadas localmente | 20 |
 
-Cada skill de terceiros mantém a licença do projeto de origem. Este repositório é
-privado justamente por conter cópia de código alheio.
+Cada skill de terceiros mantém a licença do projeto de origem — ver **Atribuição** abaixo.
+
+## Atribuição
+
+A maior parte das skills veio de projetos abertos e é redistribuída aqui sob a
+licença de origem, que continua valendo. `.skill-lock.json` registra a origem exata
+de cada uma, incluindo o commit.
+
+| origem | licença | skills |
+|---|---|---|
+| [`danielvm-git/bigpowers`](https://github.com/danielvm-git/bigpowers) | MIT | 81 |
+| [`DietrichGebert/ponytail`](https://github.com/DietrichGebert/ponytail) | MIT | 6 |
+| [`mattpocock/skills`](https://github.com/mattpocock/skills) | MIT | 1 |
+| [`shadcn/ui`](https://github.com/shadcn/ui) | MIT | 1 |
+| [`nextlevelbuilder/ui-ux-pro-max-skill`](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | MIT | 1 |
+| [`anthropics/skills`](https://github.com/anthropics/skills) | Apache-2.0 (LICENSE.txt junto da skill) | 1 |
+| [`tt-a1i/archify`](https://github.com/tt-a1i/archify) | MIT | 1 |
+| [`robonuggets/gauntlet-loop`](https://github.com/robonuggets/gauntlet-loop) | CC-BY-4.0 | 1 |
+| [`Leonxlnx/unlazy`](https://github.com/Leonxlnx/unlazy) | MIT | 1 |
+
+As demais foram escritas localmente.
+
+`skills/web-design-guidelines/` fica **fora** deste repositório: o `vercel-labs/agent-skills`
+não declara licença, então não há permissão para redistribuir. A skill continua no disco
+de quem a instalou e pode ser reinstalada do upstream.
 
 ## Sincronização automática
 
