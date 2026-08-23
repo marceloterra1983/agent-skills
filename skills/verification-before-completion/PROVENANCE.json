@@ -1,0 +1,8 @@
+{
+  "name": "verification-before-completion",
+  "upstream": "obra/superpowers",
+  "upstreamVersion": "6.2.0",
+  "license": "MIT",
+  "adaptation": "Condensed global-baseline edition preserving evidence-before-claims",
+  "retrievedAt": "2026-08-03"
+}

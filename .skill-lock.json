@@ -1,0 +1,881 @@
+{
+  "version": 3,
+  "skills": {
+    "to-spec": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/mattpocock/skills.git",
+      "skillPath": "skills/engineering/to-spec/SKILL.md",
+      "skillFolderHash": "bf698b96b5d8798d110d9872e32b9310728555b0",
+      "pluginName": "mattpocock-skills",
+      "installedAt": "2026-08-04T18:33:46.687Z",
+      "updatedAt": "2026-08-04T18:33:46.687Z"
+    },
+    "web-design-guidelines": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/vercel-labs/agent-skills.git",
+      "skillPath": "skills/web-design-guidelines/SKILL.md",
+      "skillFolderHash": "3116f3e62dbd02b44a598b1aa690d2a8938e8f89",
+      "installedAt": "2026-08-05T00:31:24.712Z",
+      "updatedAt": "2026-08-05T00:31:24.712Z"
+    },
+    "shadcn": {
+      "source": "shadcn/ui",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/shadcn/ui.git",
+      "skillPath": "skills/shadcn/SKILL.md",
+      "skillFolderHash": "0a31c3c2535a62b22bf23a1b10a142178a6b7dbf",
+      "installedAt": "2026-08-05T00:31:28.533Z",
+      "updatedAt": "2026-08-05T00:31:28.533Z"
+    },
+    "ui-ux-pro-max": {
+      "source": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill.git",
+      "skillPath": ".claude/skills/ui-ux-pro-max/SKILL.md",
+      "skillFolderHash": "3d66a0486c1000e6da51da67b0cb917be22ea8dd",
+      "installedAt": "2026-08-05T00:31:31.325Z",
+      "updatedAt": "2026-08-05T00:31:31.325Z"
+    },
+    "webapp-testing": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/anthropics/skills.git",
+      "skillPath": "skills/webapp-testing/SKILL.md",
+      "skillFolderHash": "5ffb7dc66b9fd4c25c3e400a4c00da99a349b714",
+      "pluginName": "example-skills",
+      "installedAt": "2026-08-05T00:31:33.468Z",
+      "updatedAt": "2026-08-05T00:31:33.468Z"
+    },
+    "archify": {
+      "source": "tt-a1i/archify",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/tt-a1i/archify.git",
+      "skillPath": "archify/SKILL.md",
+      "skillFolderHash": "1db35965bc62735f36d00db5ffa56bd620f02548",
+      "installedAt": "2026-08-08T17:23:31.652Z",
+      "updatedAt": "2026-08-08T17:23:31.652Z"
+    },
+    "align-grid": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/align-grid/SKILL.md",
+      "skillFolderHash": "8fb48f59e8d5a8f7f9ff42773790739f1a875d26",
+      "installedAt": "2026-08-11T03:55:25.226Z",
+      "updatedAt": "2026-08-11T03:55:25.226Z"
+    },
+    "assess-impact": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/assess-impact/SKILL.md",
+      "skillFolderHash": "2bcc140c25f8e069d79db5c0f9375075eca0e988",
+      "installedAt": "2026-08-11T03:55:25.230Z",
+      "updatedAt": "2026-08-11T03:55:25.230Z"
+    },
+    "audit-code": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/audit-code/SKILL.md",
+      "skillFolderHash": "b44537db7405c68ae4ce74b791d8c0502ec0461e",
+      "installedAt": "2026-08-11T03:55:25.231Z",
+      "updatedAt": "2026-08-11T03:55:25.231Z"
+    },
+    "audit-plan": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/audit-plan/SKILL.md",
+      "skillFolderHash": "babdc0a0a3547c1a60421caaa0f446ad86cca168",
+      "installedAt": "2026-08-11T03:55:25.232Z",
+      "updatedAt": "2026-08-11T03:55:25.232Z"
+    },
+    "build-epic": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/build-epic/SKILL.md",
+      "skillFolderHash": "b12f77d3e823d03c50f46906d526a04fc46c6b50",
+      "installedAt": "2026-08-11T03:55:25.233Z",
+      "updatedAt": "2026-08-11T03:55:25.233Z"
+    },
+    "change-request": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/change-request/SKILL.md",
+      "skillFolderHash": "9196f1ba4494808823830808c7397e9ceab128be",
+      "installedAt": "2026-08-11T03:55:25.234Z",
+      "updatedAt": "2026-08-11T03:55:25.234Z"
+    },
+    "commit-message": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/commit-message/SKILL.md",
+      "skillFolderHash": "75e6cdd850d8dfde10340becce7239b3e57baa8f",
+      "installedAt": "2026-08-11T03:55:25.235Z",
+      "updatedAt": "2026-08-11T03:55:25.235Z"
+    },
+    "compose-workflow": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/compose-workflow/SKILL.md",
+      "skillFolderHash": "be9e05ecdb1c3df4eb053f01bbb886a72aba23cb",
+      "installedAt": "2026-08-11T03:55:25.236Z",
+      "updatedAt": "2026-08-11T03:55:25.236Z"
+    },
+    "context7-mcp": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/context7-mcp/SKILL.md",
+      "skillFolderHash": "98171231868b5c3433e913f485830b6cca649bbd",
+      "installedAt": "2026-08-11T03:55:25.237Z",
+      "updatedAt": "2026-08-11T03:55:25.237Z"
+    },
+    "craft-skill": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/craft-skill/SKILL.md",
+      "skillFolderHash": "5be04b61d7be7d0450da1f61192992e5dca66452",
+      "installedAt": "2026-08-11T03:55:25.238Z",
+      "updatedAt": "2026-08-11T03:55:25.238Z"
+    },
+    "deepen-architecture": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/deepen-architecture/SKILL.md",
+      "skillFolderHash": "1b8bca7e31d31e1c3dbce39cfe0374a28641421b",
+      "installedAt": "2026-08-11T03:55:25.238Z",
+      "updatedAt": "2026-08-11T03:55:25.238Z"
+    },
+    "define-language": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/define-language/SKILL.md",
+      "skillFolderHash": "5f7ae6d269cb3fd8a48986d6870162840e7f24ac",
+      "installedAt": "2026-08-11T03:55:25.239Z",
+      "updatedAt": "2026-08-11T03:55:25.239Z"
+    },
+    "define-success": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/define-success/SKILL.md",
+      "skillFolderHash": "178ee7d002022e36fca981a76277472d5783feb5",
+      "installedAt": "2026-08-11T03:55:25.240Z",
+      "updatedAt": "2026-08-11T03:55:25.240Z"
+    },
+    "delegate-task": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/delegate-task/SKILL.md",
+      "skillFolderHash": "ee7349a4fa41cde4fedef3a75cc92199dca92dd5",
+      "installedAt": "2026-08-11T03:55:25.241Z",
+      "updatedAt": "2026-08-11T03:55:25.241Z"
+    },
+    "deploy": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/deploy/SKILL.md",
+      "skillFolderHash": "9b3abed53e30404d9f4edd543e2b5ce70b4d90af",
+      "installedAt": "2026-08-11T03:55:25.242Z",
+      "updatedAt": "2026-08-11T03:55:25.242Z"
+    },
+    "design-interface": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/design-interface/SKILL.md",
+      "skillFolderHash": "a775163d0b8f05788bb4fe7d9f26458c6d4ef364",
+      "installedAt": "2026-08-11T03:55:25.243Z",
+      "updatedAt": "2026-08-11T03:55:25.243Z"
+    },
+    "develop-tdd": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/develop-tdd/SKILL.md",
+      "skillFolderHash": "97d19a56e570d6df58d6a240f06dd6c4e1a74b2f",
+      "installedAt": "2026-08-11T03:55:25.244Z",
+      "updatedAt": "2026-08-11T03:55:25.244Z"
+    },
+    "diagnose-root": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/diagnose-root/SKILL.md",
+      "skillFolderHash": "7bc66ab482cb9865d9feb936d947127fe655872e",
+      "installedAt": "2026-08-11T03:55:25.245Z",
+      "updatedAt": "2026-08-11T03:55:25.245Z"
+    },
+    "diagnose-stall": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/diagnose-stall/SKILL.md",
+      "skillFolderHash": "a81beadb65c9112dfe5dca89850feceb95b2df20",
+      "installedAt": "2026-08-11T03:55:25.246Z",
+      "updatedAt": "2026-08-11T03:55:25.246Z"
+    },
+    "dispatch-agents": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/dispatch-agents/SKILL.md",
+      "skillFolderHash": "00aa063ecce67f3b788ec6614f4a1cfc1c5b427f",
+      "installedAt": "2026-08-11T03:55:25.247Z",
+      "updatedAt": "2026-08-11T03:55:25.247Z"
+    },
+    "edit-document": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/edit-document/SKILL.md",
+      "skillFolderHash": "9b410ca75e1fc154cf5db7768a2155787cd0cc01",
+      "installedAt": "2026-08-11T03:55:25.248Z",
+      "updatedAt": "2026-08-11T03:55:25.248Z"
+    },
+    "elaborate-spec": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/elaborate-spec/SKILL.md",
+      "skillFolderHash": "900975b1d2cc5e20a2e05f063ec08453adecfc49",
+      "installedAt": "2026-08-11T03:55:25.249Z",
+      "updatedAt": "2026-08-11T03:55:25.249Z"
+    },
+    "enforce-first": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/enforce-first/SKILL.md",
+      "skillFolderHash": "c9bf9dc5319b658c1797499c657d731ee1cbe9fd",
+      "installedAt": "2026-08-11T03:55:25.250Z",
+      "updatedAt": "2026-08-11T03:55:25.250Z"
+    },
+    "evolve-skill": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/evolve-skill/SKILL.md",
+      "skillFolderHash": "aef2605027639286f0bc3ff5a7a3c3c73dbb87f0",
+      "installedAt": "2026-08-11T03:55:25.251Z",
+      "updatedAt": "2026-08-11T03:55:25.251Z"
+    },
+    "execute-plan": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/execute-plan/SKILL.md",
+      "skillFolderHash": "fd79578b388a54fe5301a553f4640d34769be7e7",
+      "installedAt": "2026-08-11T03:55:25.252Z",
+      "updatedAt": "2026-08-11T03:55:25.252Z"
+    },
+    "extract-design": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/extract-design/SKILL.md",
+      "skillFolderHash": "23b385d3cf4ad23869bebb0bf1100111c5bc958e",
+      "installedAt": "2026-08-11T03:55:25.253Z",
+      "updatedAt": "2026-08-11T03:55:25.253Z"
+    },
+    "find-way": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/find-way/SKILL.md",
+      "skillFolderHash": "756f2b3026966fef348d1c22c551854eb1e613a9",
+      "installedAt": "2026-08-11T03:55:25.254Z",
+      "updatedAt": "2026-08-11T03:55:25.254Z"
+    },
+    "fix-bug": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/fix-bug/SKILL.md",
+      "skillFolderHash": "d6d18fc6125a6c8bdbb8610b927acfcd07fd1d42",
+      "installedAt": "2026-08-11T03:55:25.255Z",
+      "updatedAt": "2026-08-11T03:55:25.255Z"
+    },
+    "gate-trace": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/gate-trace/SKILL.md",
+      "skillFolderHash": "dc1d06422f458901398cdbb96ff251ce15930655",
+      "installedAt": "2026-08-11T03:55:25.256Z",
+      "updatedAt": "2026-08-11T03:55:25.256Z"
+    },
+    "generate-allure-report": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/generate-allure-report/SKILL.md",
+      "skillFolderHash": "93815152a8ebdd05ee30fd28410cd022ce410897",
+      "installedAt": "2026-08-11T03:55:25.257Z",
+      "updatedAt": "2026-08-11T03:55:25.257Z"
+    },
+    "grill-me": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/grill-me/SKILL.md",
+      "skillFolderHash": "25846c18eba75423a0bb7d0d0d28833f1deb183c",
+      "installedAt": "2026-08-11T03:55:25.258Z",
+      "updatedAt": "2026-08-11T03:55:25.258Z"
+    },
+    "grill-with-docs": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/grill-with-docs/SKILL.md",
+      "skillFolderHash": "1a304126544b25c5f21c855206de9d0047da6df0",
+      "installedAt": "2026-08-11T03:55:25.259Z",
+      "updatedAt": "2026-08-11T03:55:25.259Z"
+    },
+    "guard-git": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/guard-git/SKILL.md",
+      "skillFolderHash": "ab2f801391134e0d15206a7040251e0b8f1bcff4",
+      "installedAt": "2026-08-11T03:55:25.260Z",
+      "updatedAt": "2026-08-11T03:55:25.260Z"
+    },
+    "harden-vps": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/harden-vps/SKILL.md",
+      "skillFolderHash": "3c10bdd8510ee1e1d7bbaa2e092e1cac4c723dd8",
+      "installedAt": "2026-08-11T03:55:25.261Z",
+      "updatedAt": "2026-08-11T03:55:25.261Z"
+    },
+    "hook-commits": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/hook-commits/SKILL.md",
+      "skillFolderHash": "219584fea23ba2617a3e4ef91903f0ebac647bd6",
+      "installedAt": "2026-08-11T03:55:25.262Z",
+      "updatedAt": "2026-08-11T03:55:25.262Z"
+    },
+    "inspect-quality": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/inspect-quality/SKILL.md",
+      "skillFolderHash": "da2e23cf562cc748ddba1b4b97d080745904a99d",
+      "installedAt": "2026-08-11T03:55:25.263Z",
+      "updatedAt": "2026-08-11T03:55:25.263Z"
+    },
+    "investigate-bug": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/investigate-bug/SKILL.md",
+      "skillFolderHash": "dfa6699ea431fdc522a51aa6d7a2c54cc342ebeb",
+      "installedAt": "2026-08-11T03:55:25.264Z",
+      "updatedAt": "2026-08-11T03:55:25.264Z"
+    },
+    "kickoff-branch": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/kickoff-branch/SKILL.md",
+      "skillFolderHash": "c96281d665dea6b40fbcd0852fc4a5e267296c3f",
+      "installedAt": "2026-08-11T03:55:25.265Z",
+      "updatedAt": "2026-08-11T03:55:25.265Z"
+    },
+    "maintain-wiki": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/maintain-wiki/SKILL.md",
+      "skillFolderHash": "8ca0bec9aa05167d657b575ad1f0a303d6f3573c",
+      "installedAt": "2026-08-11T03:55:25.266Z",
+      "updatedAt": "2026-08-11T03:55:25.266Z"
+    },
+    "map-codebase": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/map-codebase/SKILL.md",
+      "skillFolderHash": "1394f32157ef90214f1aed6dca29db036776c5bf",
+      "installedAt": "2026-08-11T03:55:25.266Z",
+      "updatedAt": "2026-08-11T03:55:25.266Z"
+    },
+    "migrate-spec": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/migrate-spec/SKILL.md",
+      "skillFolderHash": "e85d2f9413e27299ea6387dfa2bb7a357a341d4d",
+      "installedAt": "2026-08-11T03:55:25.267Z",
+      "updatedAt": "2026-08-11T03:55:25.267Z"
+    },
+    "model-domain": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/model-domain/SKILL.md",
+      "skillFolderHash": "dfa4d58920b3a195b25229a28b66c1d0fc8b089d",
+      "installedAt": "2026-08-11T03:55:25.268Z",
+      "updatedAt": "2026-08-11T03:55:25.268Z"
+    },
+    "orchestrate-project": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/orchestrate-project/SKILL.md",
+      "skillFolderHash": "fd73fced29d82d650194ce90f0e769b4f9def263",
+      "installedAt": "2026-08-11T03:55:25.269Z",
+      "updatedAt": "2026-08-11T03:55:25.269Z"
+    },
+    "organize-workspace": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/organize-workspace/SKILL.md",
+      "skillFolderHash": "c61765d008fbc290d98a5e137394e6bf2c40b5bc",
+      "installedAt": "2026-08-11T03:55:25.270Z",
+      "updatedAt": "2026-08-11T03:55:25.270Z"
+    },
+    "plan-refactor": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/plan-refactor/SKILL.md",
+      "skillFolderHash": "775a48e4065acfe9b79c299e8110b80c33554260",
+      "installedAt": "2026-08-11T03:55:25.271Z",
+      "updatedAt": "2026-08-11T03:55:25.271Z"
+    },
+    "plan-release": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/plan-release/SKILL.md",
+      "skillFolderHash": "4ed05a6329c4d2edf8d691cbad9a17fbdab5149e",
+      "installedAt": "2026-08-11T03:55:25.272Z",
+      "updatedAt": "2026-08-11T03:55:25.272Z"
+    },
+    "plan-tests": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/plan-tests/SKILL.md",
+      "skillFolderHash": "d2d674f2b6779b67c5f738bfcf922434d34bc4ab",
+      "installedAt": "2026-08-11T03:55:25.273Z",
+      "updatedAt": "2026-08-11T03:55:25.273Z"
+    },
+    "plan-work": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/plan-work/SKILL.md",
+      "skillFolderHash": "e8755cc7ff1ad5516f0c1874a854c4ed554e833a",
+      "installedAt": "2026-08-11T03:55:25.274Z",
+      "updatedAt": "2026-08-11T03:55:25.274Z"
+    },
+    "publish-package": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/publish-package/SKILL.md",
+      "skillFolderHash": "ef980e55856bde11386f3d93c140c33c37d4e2d3",
+      "installedAt": "2026-08-11T03:55:25.275Z",
+      "updatedAt": "2026-08-11T03:55:25.275Z"
+    },
+    "quick-fix": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/quick-fix/SKILL.md",
+      "skillFolderHash": "eb1464fe92ce448a12620ea4a56ba2f401ca8c23",
+      "installedAt": "2026-08-11T03:55:25.276Z",
+      "updatedAt": "2026-08-11T03:55:25.276Z"
+    },
+    "release-branch": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/release-branch/SKILL.md",
+      "skillFolderHash": "2aaca7db143cff70ad9df17a541ec25824be80c5",
+      "installedAt": "2026-08-11T03:55:25.277Z",
+      "updatedAt": "2026-08-11T03:55:25.277Z"
+    },
+    "request-review": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/request-review/SKILL.md",
+      "skillFolderHash": "ad9e79ecbb0fc4cc354a1f681346a1655fc81b0c",
+      "installedAt": "2026-08-11T03:55:25.278Z",
+      "updatedAt": "2026-08-11T03:55:25.278Z"
+    },
+    "research-first": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/research-first/SKILL.md",
+      "skillFolderHash": "f863b22cac9200d22a013b732a3a3b532c7820e9",
+      "installedAt": "2026-08-11T03:55:25.279Z",
+      "updatedAt": "2026-08-11T03:55:25.279Z"
+    },
+    "reset-baseline": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/reset-baseline/SKILL.md",
+      "skillFolderHash": "b0f3e894ff42cd1558a041f318c4531b6ef32cc7",
+      "installedAt": "2026-08-11T03:55:25.280Z",
+      "updatedAt": "2026-08-11T03:55:25.280Z"
+    },
+    "respond-review": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/respond-review/SKILL.md",
+      "skillFolderHash": "c792dbfd9f4356d73bd463a9cc39705ad4c21be7",
+      "installedAt": "2026-08-11T03:55:25.281Z",
+      "updatedAt": "2026-08-11T03:55:25.281Z"
+    },
+    "run-benchmark": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/run-benchmark/SKILL.md",
+      "skillFolderHash": "f4e9900dca5b6a724769456dd7cff7a01e927a32",
+      "installedAt": "2026-08-11T03:55:25.282Z",
+      "updatedAt": "2026-08-11T03:55:25.282Z"
+    },
+    "run-evals": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/run-evals/SKILL.md",
+      "skillFolderHash": "dadc00f09b85675b92e9b69175ffd24f2cd25c9d",
+      "installedAt": "2026-08-11T03:55:25.283Z",
+      "updatedAt": "2026-08-11T03:55:25.283Z"
+    },
+    "run-planning": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/run-planning/SKILL.md",
+      "skillFolderHash": "c5992b36a6fa3bb62ba96edba6d954513959dc7d",
+      "installedAt": "2026-08-11T03:55:25.284Z",
+      "updatedAt": "2026-08-11T03:55:25.284Z"
+    },
+    "scope-work": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/scope-work/SKILL.md",
+      "skillFolderHash": "12c8c79de9bb004976c60e62560dbe0cb6c2fa7a",
+      "installedAt": "2026-08-11T03:55:25.285Z",
+      "updatedAt": "2026-08-11T03:55:25.285Z"
+    },
+    "search-skills": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/search-skills/SKILL.md",
+      "skillFolderHash": "8389bd7e676a93c12f5564cbbcde1f2e4a82f70b",
+      "installedAt": "2026-08-11T03:55:25.286Z",
+      "updatedAt": "2026-08-11T03:55:25.286Z"
+    },
+    "security-review": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/security-review/SKILL.md",
+      "skillFolderHash": "b7d86b7b774b9224ac9c6bbc2bc3c571d9477167",
+      "installedAt": "2026-08-11T03:55:25.287Z",
+      "updatedAt": "2026-08-11T03:55:25.287Z"
+    },
+    "seed-conventions": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/seed-conventions/SKILL.md",
+      "skillFolderHash": "f665c2efe4de3f68020d53a6f51f9ebb14e0dfa5",
+      "installedAt": "2026-08-11T03:55:25.288Z",
+      "updatedAt": "2026-08-11T03:55:25.288Z"
+    },
+    "session-state": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/session-state/SKILL.md",
+      "skillFolderHash": "d432abc8df2e415925c8a785d9452f2389ebe984",
+      "installedAt": "2026-08-11T03:55:25.288Z",
+      "updatedAt": "2026-08-11T03:55:25.288Z"
+    },
+    "setup-environment": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/setup-environment/SKILL.md",
+      "skillFolderHash": "77cbd9a0dfc440d4b1b903a49e9e5ff9d7ebf0aa",
+      "installedAt": "2026-08-11T03:55:25.289Z",
+      "updatedAt": "2026-08-11T03:55:25.289Z"
+    },
+    "simple-english": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/simple-english/SKILL.md",
+      "skillFolderHash": "2fac816800aeb63c431311af0130fdeee50a5b49",
+      "installedAt": "2026-08-11T03:55:25.290Z",
+      "updatedAt": "2026-08-11T03:55:25.290Z"
+    },
+    "simulate-agents": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/simulate-agents/SKILL.md",
+      "skillFolderHash": "fb2bf6440489f21508a2637ceb0d241c3f3e2289",
+      "installedAt": "2026-08-11T03:55:25.291Z",
+      "updatedAt": "2026-08-11T03:55:25.291Z"
+    },
+    "slice-tasks": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/slice-tasks/SKILL.md",
+      "skillFolderHash": "7b08b9b2926589058446fd53480b4be7d9cd069c",
+      "installedAt": "2026-08-11T03:55:25.292Z",
+      "updatedAt": "2026-08-11T03:55:25.292Z"
+    },
+    "smoke-test": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/smoke-test/SKILL.md",
+      "skillFolderHash": "8d5b6bd2d1ca11c6efaa22d29b59d3d80210023e",
+      "installedAt": "2026-08-11T03:55:25.293Z",
+      "updatedAt": "2026-08-11T03:55:25.293Z"
+    },
+    "spike-prototype": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/spike-prototype/SKILL.md",
+      "skillFolderHash": "e06072b14c370de2106753a5b55f6883917bb81b",
+      "installedAt": "2026-08-11T03:55:25.294Z",
+      "updatedAt": "2026-08-11T03:55:25.294Z"
+    },
+    "stocktake-skills": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/stocktake-skills/SKILL.md",
+      "skillFolderHash": "4027f3572a870b10dbbb7a7f79b36a3e5673a60b",
+      "installedAt": "2026-08-11T03:55:25.295Z",
+      "updatedAt": "2026-08-11T03:55:25.295Z"
+    },
+    "survey-context": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/survey-context/SKILL.md",
+      "skillFolderHash": "ad0da6940d3d94a6b6d9b29e44bcf9add9a55d4c",
+      "installedAt": "2026-08-11T03:55:25.296Z",
+      "updatedAt": "2026-08-11T03:55:25.296Z"
+    },
+    "terse-mode": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/terse-mode/SKILL.md",
+      "skillFolderHash": "f8488219685ded5d6315ec126511daf2fc519d58",
+      "installedAt": "2026-08-11T03:55:25.297Z",
+      "updatedAt": "2026-08-11T03:55:25.297Z"
+    },
+    "trace-requirement": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/trace-requirement/SKILL.md",
+      "skillFolderHash": "3da2487ce8c8f5a8cd30efae7758d8c804406cfd",
+      "installedAt": "2026-08-11T03:55:25.298Z",
+      "updatedAt": "2026-08-11T03:55:25.298Z"
+    },
+    "using-bigpowers": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/using-bigpowers/SKILL.md",
+      "skillFolderHash": "2d13d4f33f577f149dcc6117644ce53dd572e213",
+      "installedAt": "2026-08-11T03:55:25.299Z",
+      "updatedAt": "2026-08-11T03:55:25.299Z"
+    },
+    "validate-contracts": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/validate-contracts/SKILL.md",
+      "skillFolderHash": "ce0607a57e5991a82b85dc1963de6da1d408ace5",
+      "installedAt": "2026-08-11T03:55:25.300Z",
+      "updatedAt": "2026-08-11T03:55:25.300Z"
+    },
+    "validate-fix": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/validate-fix/SKILL.md",
+      "skillFolderHash": "5faaddbdd29a2453f607b2f47c032164134ee81b",
+      "installedAt": "2026-08-11T03:55:25.301Z",
+      "updatedAt": "2026-08-11T03:55:25.301Z"
+    },
+    "verify-work": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/verify-work/SKILL.md",
+      "skillFolderHash": "163cb2c9fecf3860de72499380e2cb12b41df856",
+      "installedAt": "2026-08-11T03:55:25.302Z",
+      "updatedAt": "2026-08-11T03:55:25.302Z"
+    },
+    "visual-dashboard": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/visual-dashboard/SKILL.md",
+      "skillFolderHash": "c04873bb358a622a9c708c7abb7f8189f700a2b3",
+      "installedAt": "2026-08-11T03:55:25.303Z",
+      "updatedAt": "2026-08-11T03:55:25.303Z"
+    },
+    "wire-ci": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/wire-ci/SKILL.md",
+      "skillFolderHash": "ae4a0e34749514752dcfb160e2f3413c6339ff8d",
+      "installedAt": "2026-08-11T03:55:25.304Z",
+      "updatedAt": "2026-08-11T03:55:25.304Z"
+    },
+    "wire-observability": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/wire-observability/SKILL.md",
+      "skillFolderHash": "213d7e7528a8c1426733d80ea631567a8e7a2c9b",
+      "installedAt": "2026-08-11T03:55:25.305Z",
+      "updatedAt": "2026-08-11T03:55:25.305Z"
+    },
+    "write-document": {
+      "source": "danielvm-git/bigpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/danielvm-git/bigpowers.git",
+      "skillPath": "skills/write-document/SKILL.md",
+      "skillFolderHash": "fbe8c1780144edddcb38867823f20ddbe425d0fa",
+      "installedAt": "2026-08-11T03:55:25.306Z",
+      "updatedAt": "2026-08-11T03:55:25.306Z"
+    },
+    "gauntlet-loop": {
+      "source": "robonuggets/gauntlet-loop",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/robonuggets/gauntlet-loop.git",
+      "skillPath": ".claude/skills/gauntlet-loop/SKILL.md",
+      "skillFolderHash": "1e764a30e3673f7b3edd1511271443a77e59f6fb",
+      "installedAt": "2026-08-14T16:12:33.948Z",
+      "updatedAt": "2026-08-14T16:12:33.948Z"
+    },
+    "ponytail": {
+      "source": "DietrichGebert/ponytail",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/DietrichGebert/ponytail.git",
+      "skillPath": "skills/ponytail/SKILL.md",
+      "skillFolderHash": "cb6e53477eaf04e6daeca22feacb85f9ce20d40c",
+      "installedAt": "2026-08-21T04:22:00.649Z",
+      "updatedAt": "2026-08-21T04:22:06.147Z"
+    },
+    "ponytail-audit": {
+      "source": "DietrichGebert/ponytail",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/DietrichGebert/ponytail.git",
+      "skillPath": "skills/ponytail-audit/SKILL.md",
+      "skillFolderHash": "19744a9490abb0f5d0f18c6e39e3a3eb50f4daa1",
+      "installedAt": "2026-08-21T04:22:06.148Z",
+      "updatedAt": "2026-08-21T04:22:06.148Z"
+    },
+    "ponytail-debt": {
+      "source": "DietrichGebert/ponytail",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/DietrichGebert/ponytail.git",
+      "skillPath": "skills/ponytail-debt/SKILL.md",
+      "skillFolderHash": "fe9ea82cad2b42a9c244acc275c9091c414ff528",
+      "installedAt": "2026-08-21T04:22:06.149Z",
+      "updatedAt": "2026-08-21T04:22:06.149Z"
+    },
+    "ponytail-gain": {
+      "source": "DietrichGebert/ponytail",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/DietrichGebert/ponytail.git",
+      "skillPath": "skills/ponytail-gain/SKILL.md",
+      "skillFolderHash": "13724e1903f76456164f00ec2a3074848433588f",
+      "installedAt": "2026-08-21T04:22:06.151Z",
+      "updatedAt": "2026-08-21T04:22:06.151Z"
+    },
+    "ponytail-help": {
+      "source": "DietrichGebert/ponytail",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/DietrichGebert/ponytail.git",
+      "skillPath": "skills/ponytail-help/SKILL.md",
+      "skillFolderHash": "b7df7bc32b6e4e8bbde8acb2ef3c97ee7e7638f7",
+      "installedAt": "2026-08-21T04:22:06.152Z",
+      "updatedAt": "2026-08-21T04:22:06.152Z"
+    },
+    "ponytail-review": {
+      "source": "DietrichGebert/ponytail",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/DietrichGebert/ponytail.git",
+      "skillPath": "skills/ponytail-review/SKILL.md",
+      "skillFolderHash": "dc6d9660c4297496a9220de377f6f7df38ab1a53",
+      "installedAt": "2026-08-21T04:22:06.153Z",
+      "updatedAt": "2026-08-21T04:22:06.153Z"
+    },
+    "unlazy": {
+      "source": "Leonxlnx/unlazy",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/Leonxlnx/unlazy.git",
+      "skillPath": "SKILL.md",
+      "skillFolderHash": "ed9e8d2b5919698cf2c54bda270d507e10b69617",
+      "installedAt": "2026-08-21T15:31:54.706Z",
+      "updatedAt": "2026-08-21T15:31:54.706Z"
+    }
+  },
+  "dismissed": {
+    "findSkillsPrompt": true
+  },
+  "lastSelectedAgents": [
+    "amp",
+    "antigravity",
+    "antigravity-cli",
+    "cline",
+    "codex",
+    "cursor",
+    "deepagents",
+    "gemini-cli",
+    "github-copilot",
+    "kimi-code-cli",
+    "opencode",
+    "warp",
+    "zed",
+    "claude-code"
+  ]
+}

@@ -1,0 +1,6 @@
+# Caches de execução das skills — regenerados, nunca conteúdo.
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+.DS_Store

@@ -1,0 +1,8 @@
+{
+  "name": "receiving-code-review",
+  "upstream": "obra/superpowers",
+  "upstreamVersion": "6.2.0",
+  "license": "MIT",
+  "adaptation": "Condensed global-baseline edition preserving verify-before-implementing review feedback",
+  "retrievedAt": "2026-08-03"
+}
