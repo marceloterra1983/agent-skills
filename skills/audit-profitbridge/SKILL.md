@@ -162,6 +162,35 @@ Todos herdam as regras de segurança e a lista de fora-de-escopo.
   runners de CI, e riscos operacionais conhecidos (recovery do Host, janela B3,
   worktree que sustenta o serviço do Portal).
 
+**Agente E — CI e supply chain** *(emenda 25/08/2026: lacuna encontrada por pesquisa
+Perplexity — runners self-hosted persistentes tornam isto obrigatório)*
+- `.github/workflows/*.yml` todos: triggers perigosos (`pull_request_target`,
+  `workflow_run`), injeção `${{ }}` dentro de `run:` (caminho seguro é `env:`),
+  pinning de todas as actions por SHA-40, `permissions:` por workflow (conteúdo, não
+  só presença), `persist-credentials` em runner persistente.
+- O gate de publicação (`protocol-package.yml`): o job com `packages:write` faz
+  checkout do que executa? Valida ref/artefato? Environment protegido? **Rodar o
+  caminho mentalmente passo a passo — em 25/08 o job estava inoperante (sem checkout)
+  e todo PR ficava verde.**
+- Lockfiles + `npm ci`/locked-mode, `global.json`, fontes NuGet, `dependabot.yml`
+  apontando para árvores vivas, e o que o Security Scan realmente varre
+  (allowlist do `.gitleaks.toml` ancorada com `^`, não substring).
+- Calibração: repo de dono único sem PRs de fork REDUZ vários vetores — dizer quando
+  se aplica; o registry npm/NuGet é atacante mesmo com dono único.
+
+**Agente F — Hardening web e de serviço** *(mesma emenda)*
+- Portal: CSP/headers, cookies (`__Host-`, SameSite), CSRF incluindo WebSocket,
+  CORS, forwarded headers, `AllowedHosts`, limites do Kestrel
+  (`MaxRequestBodySize`), SignalR (`MaximumReceiveMessageSize`, teto de
+  conexões/invocações por usuário, cooldown de resync), cache-control por classe de
+  asset, modelo de confiança do header de autenticação (quem mais alcança o
+  loopback? runners de CI coabitam o host).
+- systemd: unit por unit em `deploy/` e `server/` — o serviço TEM unit? User
+  não-root, `NoNewPrivileges`, `ProtectSystem`, `PrivateTmp`, `ReadWritePaths`
+  mínimos e **`MemoryMax`/`MemoryHigh`** (DuckDB: `memory_limit` é por instância;
+  a contenção da máquina é cgroup — pico real já medido de 49,6 GB).
+- Calibração: loopback/tailnet reduz headers/HSTS; dizer quando vale.
+
 ## ONDA 2 — REVISÃO CRUZADA (agentes novos, contexto limpo)
 
 Encerre os agentes da Onda 1. Suba três críticos que não viram o trabalho original:
