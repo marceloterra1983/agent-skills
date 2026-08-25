@@ -857,6 +857,15 @@
       "skillFolderHash": "ed9e8d2b5919698cf2c54bda270d507e10b69617",
       "installedAt": "2026-08-21T15:31:54.706Z",
       "updatedAt": "2026-08-21T15:31:54.706Z"
+    },
+    "github-issue-creator": {
+      "source": "microsoft/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/microsoft/skills.git",
+      "skillPath": ".github/skills/github-issue-creator/SKILL.md",
+      "skillFolderHash": "bd1b5edf4cefdca8e192610e2e990130f67f704d",
+      "installedAt": "2026-08-25T04:27:59.501Z",
+      "updatedAt": "2026-08-25T04:27:59.501Z"
     }
   },
   "dismissed": {
