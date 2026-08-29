@@ -974,6 +974,3093 @@
       "skillFolderHash": "3ffa3bc78b8aaa9a05d85f90d518400ef7d5a05f",
       "installedAt": "2026-08-26T03:38:30.111Z",
       "updatedAt": "2026-08-26T03:38:30.111Z"
+    },
+    "accelerated-computing-cudf": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/accelerated-computing-cudf/SKILL.md",
+      "skillFolderHash": "75dfa40287118a6217055976fc98d40d31fc387c",
+      "installedAt": "2026-08-29T03:50:08.904Z",
+      "updatedAt": "2026-08-29T03:50:08.904Z"
+    },
+    "aiq-deploy": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/aiq-deploy/SKILL.md",
+      "skillFolderHash": "c71894aab0b309acb48f43b7b37af8e3d0ea5e55",
+      "installedAt": "2026-08-29T03:50:08.906Z",
+      "updatedAt": "2026-08-29T03:50:08.906Z"
+    },
+    "aiq-research": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/aiq-research/SKILL.md",
+      "skillFolderHash": "d58e588beca67360e49c08b7a770aed54266c780",
+      "installedAt": "2026-08-29T03:50:08.907Z",
+      "updatedAt": "2026-08-29T03:50:08.907Z"
+    },
+    "amc-run-rtsp-calibration": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/amc-run-rtsp-calibration/SKILL.md",
+      "skillFolderHash": "b9c611b8954825ed00899b7eb49ce523fa063898",
+      "installedAt": "2026-08-29T03:50:08.908Z",
+      "updatedAt": "2026-08-29T03:50:08.908Z"
+    },
+    "amc-run-sample-calibration": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/amc-run-sample-calibration/SKILL.md",
+      "skillFolderHash": "f01500d3bfcf37479c6204bb0f821ad9f8f5d465",
+      "installedAt": "2026-08-29T03:50:08.910Z",
+      "updatedAt": "2026-08-29T03:50:08.910Z"
+    },
+    "amc-run-video-calibration": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/amc-run-video-calibration/SKILL.md",
+      "skillFolderHash": "c75a3c6a59ac31e2ea2e34136377d29bfc90d423",
+      "installedAt": "2026-08-29T03:50:08.911Z",
+      "updatedAt": "2026-08-29T03:50:08.911Z"
+    },
+    "amc-setup-calibration-stack": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/amc-setup-calibration-stack/SKILL.md",
+      "skillFolderHash": "e2af9b688055e1d3f41e1d5fd663983fe53b8b70",
+      "installedAt": "2026-08-29T03:50:08.912Z",
+      "updatedAt": "2026-08-29T03:50:08.912Z"
+    },
+    "cudaq-guide": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/cudaq-guide/SKILL.md",
+      "skillFolderHash": "549d23ec93ab1305301d28a66984d90f8c085d80",
+      "installedAt": "2026-08-29T03:50:08.913Z",
+      "updatedAt": "2026-08-29T03:50:08.913Z"
+    },
+    "cuopt-developer": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/cuopt-developer/SKILL.md",
+      "skillFolderHash": "62e5a94b0a1ee36d210b18fba41780438c99e3fd",
+      "installedAt": "2026-08-29T03:50:08.914Z",
+      "updatedAt": "2026-08-29T03:50:08.914Z"
+    },
+    "cuopt-install": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/cuopt-install/SKILL.md",
+      "skillFolderHash": "26789da93b99cdc1b4c5cdd12fb2bc8da68984b3",
+      "installedAt": "2026-08-29T03:50:08.916Z",
+      "updatedAt": "2026-08-29T03:50:08.916Z"
+    },
+    "cuopt-multi-objective-exploration": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/cuopt-multi-objective-exploration/SKILL.md",
+      "skillFolderHash": "24f67f651ecd16deee6cd472eb3840b985860c2e",
+      "installedAt": "2026-08-29T03:50:08.917Z",
+      "updatedAt": "2026-08-29T03:50:08.917Z"
+    },
+    "cuopt-numerical-optimization-api": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/cuopt-numerical-optimization-api/SKILL.md",
+      "skillFolderHash": "6a61c5a26af330ecc43b10b88b44d7033036ed0a",
+      "installedAt": "2026-08-29T03:50:08.918Z",
+      "updatedAt": "2026-08-29T03:50:08.918Z"
+    },
+    "cuopt-numerical-optimization-formulation": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/cuopt-numerical-optimization-formulation/SKILL.md",
+      "skillFolderHash": "41bc34203b91af8c3209220b54db9ee7cade4d87",
+      "installedAt": "2026-08-29T03:50:08.919Z",
+      "updatedAt": "2026-08-29T03:50:08.919Z"
+    },
+    "cuopt-routing-api-python": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/cuopt-routing-api-python/SKILL.md",
+      "skillFolderHash": "fc2723f1c63f35b15176016a77b4062c5d4ed336",
+      "installedAt": "2026-08-29T03:50:08.920Z",
+      "updatedAt": "2026-08-29T03:50:08.920Z"
+    },
+    "cuopt-server-api-python": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/cuopt-server-api-python/SKILL.md",
+      "skillFolderHash": "3e48a3cbe3829405975f442ab74bf0fec56b81c9",
+      "installedAt": "2026-08-29T03:50:08.921Z",
+      "updatedAt": "2026-08-29T03:50:08.921Z"
+    },
+    "cupynumeric-hdf5": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/cupynumeric-hdf5/SKILL.md",
+      "skillFolderHash": "197da49894e3cc32b7600cd2055f96bebc53b002",
+      "installedAt": "2026-08-29T03:50:08.923Z",
+      "updatedAt": "2026-08-29T03:50:08.923Z"
+    },
+    "cupynumeric-install": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/cupynumeric-install/SKILL.md",
+      "skillFolderHash": "1898d443fecdbdc82885d5778d73dc4ee179f9fc",
+      "installedAt": "2026-08-29T03:50:08.924Z",
+      "updatedAt": "2026-08-29T03:50:08.924Z"
+    },
+    "cupynumeric-migration-readiness": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/cupynumeric-migration-readiness/SKILL.md",
+      "skillFolderHash": "065835cc28f4974faeeef57e0e05425747a134ee",
+      "installedAt": "2026-08-29T03:50:08.925Z",
+      "updatedAt": "2026-08-29T03:50:08.925Z"
+    },
+    "cupynumeric-parallel-data-load": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/cupynumeric-parallel-data-load/SKILL.md",
+      "skillFolderHash": "11298d853358d4301de3df780ace76424d94b94b",
+      "installedAt": "2026-08-29T03:50:08.926Z",
+      "updatedAt": "2026-08-29T03:50:08.926Z"
+    },
+    "dali-dynamic-mode": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/dali-dynamic-mode/SKILL.md",
+      "skillFolderHash": "e034dbf8395db4d124c46414b4d8b59ebc679ac3",
+      "installedAt": "2026-08-29T03:50:08.927Z",
+      "updatedAt": "2026-08-29T03:50:08.927Z"
+    },
+    "data-designer": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/data-designer/SKILL.md",
+      "skillFolderHash": "a48f6ae53d90a74853be7abb5edf7607049c3b7d",
+      "installedAt": "2026-08-29T03:50:08.928Z",
+      "updatedAt": "2026-08-29T03:50:08.928Z"
+    },
+    "deepstream-dev": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/deepstream-dev/SKILL.md",
+      "skillFolderHash": "9d3328d42250c63eb17a195b43279e728740ee17",
+      "installedAt": "2026-08-29T03:50:08.929Z",
+      "updatedAt": "2026-08-29T03:50:08.929Z"
+    },
+    "deepstream-generate-pipeline": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/deepstream-generate-pipeline/SKILL.md",
+      "skillFolderHash": "002990dc279b7964a33aa0b5018b9cdc8de0c8b8",
+      "installedAt": "2026-08-29T03:50:08.930Z",
+      "updatedAt": "2026-08-29T03:50:08.930Z"
+    },
+    "deepstream-import-vision-model": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/deepstream-import-vision-model/SKILL.md",
+      "skillFolderHash": "5ff158b99a78d2757dad1a110b75209efca56cce",
+      "installedAt": "2026-08-29T03:50:08.931Z",
+      "updatedAt": "2026-08-29T03:50:08.931Z"
+    },
+    "deepstream-profile-pipeline": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/deepstream-profile-pipeline/SKILL.md",
+      "skillFolderHash": "854c3bbaf70c83fd0e03036e41bf7cc8e15f803d",
+      "installedAt": "2026-08-29T03:50:08.933Z",
+      "updatedAt": "2026-08-29T03:50:08.933Z"
+    },
+    "deepstream-run-mv3dt": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/deepstream-run-mv3dt/SKILL.md",
+      "skillFolderHash": "8d8a6ec326698a294808245feb3b87b85fcef94a",
+      "installedAt": "2026-08-29T03:50:08.934Z",
+      "updatedAt": "2026-08-29T03:50:08.934Z"
+    },
+    "deepstream-sop": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/deepstream-sop/SKILL.md",
+      "skillFolderHash": "110fa6250e0dc4d819a305e0e4e0e66769df3567",
+      "installedAt": "2026-08-29T03:50:08.935Z",
+      "updatedAt": "2026-08-29T03:50:08.935Z"
+    },
+    "dicom-metadata-extract": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/dicom-metadata-extract/SKILL.md",
+      "skillFolderHash": "05d0b92b8d6b34eddfaafe68eedfd89cdcf39c98",
+      "installedAt": "2026-08-29T03:50:08.936Z",
+      "updatedAt": "2026-08-29T03:50:08.936Z"
+    },
+    "dicom-series-preflight": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/dicom-series-preflight/SKILL.md",
+      "skillFolderHash": "4f2b3187f2cab305236056532ddf46f6cf2251e9",
+      "installedAt": "2026-08-29T03:50:08.937Z",
+      "updatedAt": "2026-08-29T03:50:08.937Z"
+    },
+    "dicom-series-to-volume": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/dicom-series-to-volume/SKILL.md",
+      "skillFolderHash": "7dbddbd32baffe48e8067dbe74494ca0c963fa0b",
+      "installedAt": "2026-08-29T03:50:08.938Z",
+      "updatedAt": "2026-08-29T03:50:08.938Z"
+    },
+    "digital-health-clinical-asr-build": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/digital-health-clinical-asr-build/SKILL.md",
+      "skillFolderHash": "8b8592c99d2c431de7622ba2edaff4594e27ec17",
+      "installedAt": "2026-08-29T03:50:08.939Z",
+      "updatedAt": "2026-08-29T03:50:08.939Z"
+    },
+    "digital-health-clinical-asr-eval": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/digital-health-clinical-asr-eval/SKILL.md",
+      "skillFolderHash": "0cb11382e32d0eaa5f0c20cf172c84ac770a995f",
+      "installedAt": "2026-08-29T03:50:08.941Z",
+      "updatedAt": "2026-08-29T03:50:08.941Z"
+    },
+    "digital-health-clinical-asr-finetune": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/digital-health-clinical-asr-finetune/SKILL.md",
+      "skillFolderHash": "049aaa6f59089735d345d71ead643039ad20e1d9",
+      "installedAt": "2026-08-29T03:50:08.942Z",
+      "updatedAt": "2026-08-29T03:50:08.942Z"
+    },
+    "digital-health-clinical-asr-setup": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/digital-health-clinical-asr-setup/SKILL.md",
+      "skillFolderHash": "d35d5f144d1ee95593a4aff7b1275b76c53491b3",
+      "installedAt": "2026-08-29T03:50:08.943Z",
+      "updatedAt": "2026-08-29T03:50:08.943Z"
+    },
+    "doca-aes-gcm": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/doca-aes-gcm/SKILL.md",
+      "skillFolderHash": "ee04ee54c69317a4ebdf9935c40a704657da734a",
+      "installedAt": "2026-08-29T03:50:08.944Z",
+      "updatedAt": "2026-08-29T03:50:08.944Z"
+    },
+    "doca-argp": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/doca-argp/SKILL.md",
+      "skillFolderHash": "02a7720c1137cbe2bd2b3f27e162d3cedea8ddcd",
+      "installedAt": "2026-08-29T03:50:08.945Z",
+      "updatedAt": "2026-08-29T03:50:08.945Z"
+    },
+    "doca-argus": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/doca-argus/SKILL.md",
+      "skillFolderHash": "210d99d68f513b5d31e1ba43ca7598c9fa7289f3",
+      "installedAt": "2026-08-29T03:50:08.947Z",
+      "updatedAt": "2026-08-29T03:50:08.947Z"
+    },
+    "doca-bare-metal-deployment": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/doca-bare-metal-deployment/SKILL.md",
+      "skillFolderHash": "bb4a715521b660e30d3924817879f0f3044df98f",
+      "installedAt": "2026-08-29T03:50:08.948Z",
+      "updatedAt": "2026-08-29T03:50:08.948Z"
+    },
+    "doca-bench": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/doca-bench/SKILL.md",
+      "skillFolderHash": "773828263a738921a920d8b564b8f2e15ad1e38d",
+      "installedAt": "2026-08-29T03:50:08.949Z",
+      "updatedAt": "2026-08-29T03:50:08.949Z"
+    },
+    "doca-bench-extension": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/doca-bench-extension/SKILL.md",
+      "skillFolderHash": "fef1719f0c588968a07be9ffc746931f40befeb5",
+      "installedAt": "2026-08-29T03:50:08.950Z",
+      "updatedAt": "2026-08-29T03:50:08.950Z"
+    },
+    "doca-bf3-deployment": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/doca-bf3-deployment/SKILL.md",
+      "skillFolderHash": "3eaf69352c0cdc0c8604eb3c89d17fa6e7e953d6",
+      "installedAt": "2026-08-29T03:50:08.951Z",
+      "updatedAt": "2026-08-29T03:50:08.951Z"
+    },
+    "doca-bf4-deployment": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/doca-bf4-deployment/SKILL.md",
+      "skillFolderHash": "0bbccc1c3d84f367d7bb6474a8859554735ff825",
+      "installedAt": "2026-08-29T03:50:08.953Z",
+      "updatedAt": "2026-08-29T03:50:08.953Z"
+    },
+    "doca-caps": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/doca-caps/SKILL.md",
+      "skillFolderHash": "cb1b789beb0e3b2b630d94e34b298aa7c0198063",
+      "installedAt": "2026-08-29T03:50:08.954Z",
+      "updatedAt": "2026-08-29T03:50:08.954Z"
+    },
+    "doca-collectx-deployment": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/doca-collectx-deployment/SKILL.md",
+      "skillFolderHash": "e2297e1281b7699e361a21d03540927b7ca46e62",
+      "installedAt": "2026-08-29T03:50:08.955Z",
+      "updatedAt": "2026-08-29T03:50:08.955Z"
+    },
+    "doca-comch": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/doca-comch/SKILL.md",
+      "skillFolderHash": "9aa01d2bc665189b448abe4dabd836c30f28cd1b",
+      "installedAt": "2026-08-29T03:50:08.957Z",
+      "updatedAt": "2026-08-29T03:50:08.957Z"
+    },
+    "doca-comm-channel-admin": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/doca-comm-channel-admin/SKILL.md",
+      "skillFolderHash": "9b97ed5fce02701c4dbf6360302ac778c1543ea3",
+      "installedAt": "2026-08-29T03:50:08.958Z",
+      "updatedAt": "2026-08-29T03:50:08.958Z"
+    },
+    "doca-common": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/doca-common/SKILL.md",
+      "skillFolderHash": "57abc5f8a79f838addefc46b1559eb7e8c0825c0",
+      "installedAt": "2026-08-29T03:50:08.959Z",
+      "updatedAt": "2026-08-29T03:50:08.959Z"
+    },
+    "doca-compress": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/doca-compress/SKILL.md",
+      "skillFolderHash": "c90dfa40053f88b7f48d985c4da83e75ec4fd769",
+      "installedAt": "2026-08-29T03:50:08.960Z",
+      "updatedAt": "2026-08-29T03:50:08.960Z"
+    },
+    "doca-container-deployment": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/doca-container-deployment/SKILL.md",
+      "skillFolderHash": "3a8d2177443b93b463e27a1df9fe744af6042ee2",
+      "installedAt": "2026-08-29T03:50:08.961Z",
+      "updatedAt": "2026-08-29T03:50:08.961Z"
+    },
+    "doca-debug": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/doca-debug/SKILL.md",
+      "skillFolderHash": "a58d685c7eede57919ea66fb854670b84d127935",
+      "installedAt": "2026-08-29T03:50:08.963Z",
+      "updatedAt": "2026-08-29T03:50:08.963Z"
+    },
+    "doca-devemu": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/doca-devemu/SKILL.md",
+      "skillFolderHash": "ebd91b5aa78b3a021584f6dcacad44343e9594a6",
+      "installedAt": "2026-08-29T03:50:08.964Z",
+      "updatedAt": "2026-08-29T03:50:08.964Z"
+    },
+    "doca-dma": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/doca-dma/SKILL.md",
+      "skillFolderHash": "4af293573e13de9d681dc67e2ae8c1828f6324ac",
+      "installedAt": "2026-08-29T03:50:08.965Z",
+      "updatedAt": "2026-08-29T03:50:08.965Z"
+    },
+    "doca-dms": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/doca-dms/SKILL.md",
+      "skillFolderHash": "4551fff3f03f4dc62bbfe3aaf065f20d6f35eced",
+      "installedAt": "2026-08-29T03:50:08.966Z",
+      "updatedAt": "2026-08-29T03:50:08.966Z"
+    },
+    "doca-dpa": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/doca-dpa/SKILL.md",
+      "skillFolderHash": "dc0923a26e34bbb8df70ecb5b94cc590f7a831a3",
+      "installedAt": "2026-08-29T03:50:08.967Z",
+      "updatedAt": "2026-08-29T03:50:08.967Z"
+    },
+    "doca-dpa-hl-tracer": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/doca-dpa-hl-tracer/SKILL.md",
+      "skillFolderHash": "92f71bed40b563143d850b187c28e23bd4d710d6",
+      "installedAt": "2026-08-29T03:50:08.969Z",
+      "updatedAt": "2026-08-29T03:50:08.969Z"
+    },
+    "doca-dpdk-bridge": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/doca-dpdk-bridge/SKILL.md",
+      "skillFolderHash": "56b2fa351e5d01b8973a3763c507848799e4a601",
+      "installedAt": "2026-08-29T03:50:08.970Z",
+      "updatedAt": "2026-08-29T03:50:08.970Z"
+    },
+    "doca-erasure-coding": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/doca-erasure-coding/SKILL.md",
+      "skillFolderHash": "71e4e85d850cbbda45d74ae42c74c1359db5683c",
+      "installedAt": "2026-08-29T03:50:08.972Z",
+      "updatedAt": "2026-08-29T03:50:08.972Z"
+    },
+    "doca-eth": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/doca-eth/SKILL.md",
+      "skillFolderHash": "9c9cadbda00248c3d44b57e31f1e7bd4661398cc",
+      "installedAt": "2026-08-29T03:50:08.973Z",
+      "updatedAt": "2026-08-29T03:50:08.973Z"
+    },
+    "doca-firefly": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/doca-firefly/SKILL.md",
+      "skillFolderHash": "f3e236873b9ecba9e5e9bdbd6fd433199103d980",
+      "installedAt": "2026-08-29T03:50:08.978Z",
+      "updatedAt": "2026-08-29T03:50:08.978Z"
+    },
+    "doca-flow": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/doca-flow/SKILL.md",
+      "skillFolderHash": "80be04199024b0b6ab83c41be65003b9223523a5",
+      "installedAt": "2026-08-29T03:50:08.982Z",
+      "updatedAt": "2026-08-29T03:50:08.982Z"
+    },
+    "doca-flow-dpa-perf": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/doca-flow-dpa-perf/SKILL.md",
+      "skillFolderHash": "ed2b0f20f44cfa495bf7c97b5a5c4a9b62de9191",
+      "installedAt": "2026-08-29T03:50:08.984Z",
+      "updatedAt": "2026-08-29T03:50:08.984Z"
+    },
+    "doca-flow-dpa-provider": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/doca-flow-dpa-provider/SKILL.md",
+      "skillFolderHash": "fc9854aedaa7ee241a89bfdecd68eca4c815e156",
+      "installedAt": "2026-08-29T03:50:08.985Z",
+      "updatedAt": "2026-08-29T03:50:08.985Z"
+    },
+    "doca-flow-grpc-server": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/doca-flow-grpc-server/SKILL.md",
+      "skillFolderHash": "9ba5a29074b2a0206232796e9d348e77ba989d9f",
+      "installedAt": "2026-08-29T03:50:08.986Z",
+      "updatedAt": "2026-08-29T03:50:08.986Z"
+    },
+    "doca-flow-perf": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/doca-flow-perf/SKILL.md",
+      "skillFolderHash": "cee10b2fea83feaa0fa2182b6fa90e1123e7db61",
+      "installedAt": "2026-08-29T03:50:08.988Z",
+      "updatedAt": "2026-08-29T03:50:08.988Z"
+    },
+    "doca-flow-tune": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/doca-flow-tune/SKILL.md",
+      "skillFolderHash": "ac22d66e71f25ff034cfbe9e9ea0010ff32a5c51",
+      "installedAt": "2026-08-29T03:50:08.989Z",
+      "updatedAt": "2026-08-29T03:50:08.989Z"
+    },
+    "doca-gpi": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/doca-gpi/SKILL.md",
+      "skillFolderHash": "bd89bb24221c8f0c0cac200f2a51bf2c81e17ba3",
+      "installedAt": "2026-08-29T03:50:08.990Z",
+      "updatedAt": "2026-08-29T03:50:08.990Z"
+    },
+    "doca-gpunetio": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/doca-gpunetio/SKILL.md",
+      "skillFolderHash": "a294fbf871e18172ced352735825e1a7a2294a00",
+      "installedAt": "2026-08-29T03:50:08.991Z",
+      "updatedAt": "2026-08-29T03:50:08.991Z"
+    },
+    "doca-gpunetio-ib-write-bw": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/doca-gpunetio-ib-write-bw/SKILL.md",
+      "skillFolderHash": "fe8c6b85ca894a7c82ab08cbfe400e0c2a5a81e0",
+      "installedAt": "2026-08-29T03:50:08.993Z",
+      "updatedAt": "2026-08-29T03:50:08.993Z"
+    },
+    "doca-gpunetio-ib-write-lat": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/doca-gpunetio-ib-write-lat/SKILL.md",
+      "skillFolderHash": "76c5b19d62ea81ac986e3451c2218ac6176e1ee7",
+      "installedAt": "2026-08-29T03:50:08.994Z",
+      "updatedAt": "2026-08-29T03:50:08.994Z"
+    },
+    "doca-hardware-safety": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/doca-hardware-safety/SKILL.md",
+      "skillFolderHash": "8817c190d152fbb4833e6144e23bfd971d3865b1",
+      "installedAt": "2026-08-29T03:50:08.998Z",
+      "updatedAt": "2026-08-29T03:50:08.998Z"
+    },
+    "doca-mgmt": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/doca-mgmt/SKILL.md",
+      "skillFolderHash": "8f5c612f051f73b8e51ef37ee28a2b7996bce8c2",
+      "installedAt": "2026-08-29T03:50:09.000Z",
+      "updatedAt": "2026-08-29T03:50:09.000Z"
+    },
+    "doca-pcc": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/doca-pcc/SKILL.md",
+      "skillFolderHash": "0bfce338d36ee2e65effafd55f4ef4c01d91c997",
+      "installedAt": "2026-08-29T03:50:09.002Z",
+      "updatedAt": "2026-08-29T03:50:09.002Z"
+    },
+    "doca-pcc-counters": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/doca-pcc-counters/SKILL.md",
+      "skillFolderHash": "f84d4ad85c85b872f4be3d8a668933b07f1d93e6",
+      "installedAt": "2026-08-29T03:50:09.003Z",
+      "updatedAt": "2026-08-29T03:50:09.003Z"
+    },
+    "doca-pcc-ztr-rttcc-algo": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/doca-pcc-ztr-rttcc-algo/SKILL.md",
+      "skillFolderHash": "223d2b60064c0f6ba13dec72e6438fb44629a16b",
+      "installedAt": "2026-08-29T03:50:09.004Z",
+      "updatedAt": "2026-08-29T03:50:09.004Z"
+    },
+    "doca-programming-guide": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/doca-programming-guide/SKILL.md",
+      "skillFolderHash": "36071b2b2ed73695a7d1d98bb22b9f73a54cbadf",
+      "installedAt": "2026-08-29T03:50:09.005Z",
+      "updatedAt": "2026-08-29T03:50:09.005Z"
+    },
+    "doca-public-knowledge-map": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/doca-public-knowledge-map/SKILL.md",
+      "skillFolderHash": "5b57a5bf85a455e00c5274955b45c5b6b20f559f",
+      "installedAt": "2026-08-29T03:50:09.007Z",
+      "updatedAt": "2026-08-29T03:50:09.007Z"
+    },
+    "doca-rdma": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/doca-rdma/SKILL.md",
+      "skillFolderHash": "a6093d330657079e94556d38041e2de47cdb200f",
+      "installedAt": "2026-08-29T03:50:09.008Z",
+      "updatedAt": "2026-08-29T03:50:09.008Z"
+    },
+    "doca-rdmi": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/doca-rdmi/SKILL.md",
+      "skillFolderHash": "f14da551facd7954fb9a4413d8ec3b99dcc0c719",
+      "installedAt": "2026-08-29T03:50:09.009Z",
+      "updatedAt": "2026-08-29T03:50:09.009Z"
+    },
+    "doca-rmax": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/doca-rmax/SKILL.md",
+      "skillFolderHash": "dc4598e14315460908e7833181f023c6183dc312",
+      "installedAt": "2026-08-29T03:50:09.010Z",
+      "updatedAt": "2026-08-29T03:50:09.010Z"
+    },
+    "doca-setup": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/doca-setup/SKILL.md",
+      "skillFolderHash": "8e76ee6e849fc6a4ece962f9225cf41b933b24c4",
+      "installedAt": "2026-08-29T03:50:09.011Z",
+      "updatedAt": "2026-08-29T03:50:09.011Z"
+    },
+    "doca-sha": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/doca-sha/SKILL.md",
+      "skillFolderHash": "5f1c20653d6e571af2b93e0edfbf1d902218f2c1",
+      "installedAt": "2026-08-29T03:50:09.013Z",
+      "updatedAt": "2026-08-29T03:50:09.013Z"
+    },
+    "doca-sha-offload-engine": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/doca-sha-offload-engine/SKILL.md",
+      "skillFolderHash": "08086b79d7aaa98b06df43dceeda0ee5230516dc",
+      "installedAt": "2026-08-29T03:50:09.015Z",
+      "updatedAt": "2026-08-29T03:50:09.015Z"
+    },
+    "doca-socket-relay": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/doca-socket-relay/SKILL.md",
+      "skillFolderHash": "edcff8547b5f1faa6396029a9ecb800be693f034",
+      "installedAt": "2026-08-29T03:50:09.016Z",
+      "updatedAt": "2026-08-29T03:50:09.016Z"
+    },
+    "doca-spcx-cc": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/doca-spcx-cc/SKILL.md",
+      "skillFolderHash": "c43b9f396e3f192dfbb5b4f442fe1355ecb64b4a",
+      "installedAt": "2026-08-29T03:50:09.017Z",
+      "updatedAt": "2026-08-29T03:50:09.017Z"
+    },
+    "doca-sta": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/doca-sta/SKILL.md",
+      "skillFolderHash": "6d99bf90cf0e1c6b598fe09414b3a4651f890c0e",
+      "installedAt": "2026-08-29T03:50:09.019Z",
+      "updatedAt": "2026-08-29T03:50:09.019Z"
+    },
+    "doca-structured-tools-contract": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/doca-structured-tools-contract/SKILL.md",
+      "skillFolderHash": "d510b90fa271b96a3239c66bcb786bb7f3b93461",
+      "installedAt": "2026-08-29T03:50:09.020Z",
+      "updatedAt": "2026-08-29T03:50:09.020Z"
+    },
+    "doca-telemetry": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/doca-telemetry/SKILL.md",
+      "skillFolderHash": "74e4b2f645f505e00180f4c6713dfc23227036c3",
+      "installedAt": "2026-08-29T03:50:09.021Z",
+      "updatedAt": "2026-08-29T03:50:09.021Z"
+    },
+    "doca-telemetry-exporter": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/doca-telemetry-exporter/SKILL.md",
+      "skillFolderHash": "3bb1455f96a50ce512bbcb06113865ecff57371d",
+      "installedAt": "2026-08-29T03:50:09.022Z",
+      "updatedAt": "2026-08-29T03:50:09.022Z"
+    },
+    "doca-telemetry-utils": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/doca-telemetry-utils/SKILL.md",
+      "skillFolderHash": "6142bc3cd657693f8f8c12846fcb34b85f480a77",
+      "installedAt": "2026-08-29T03:50:09.023Z",
+      "updatedAt": "2026-08-29T03:50:09.023Z"
+    },
+    "doca-upgrade": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/doca-upgrade/SKILL.md",
+      "skillFolderHash": "8e4d15fe6570514f00b3c710b28dcd34fd7b7c4a",
+      "installedAt": "2026-08-29T03:50:09.025Z",
+      "updatedAt": "2026-08-29T03:50:09.025Z"
+    },
+    "doca-urom": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/doca-urom/SKILL.md",
+      "skillFolderHash": "a6b409084d52b0897b9752ecb9d5a284a3211f97",
+      "installedAt": "2026-08-29T03:50:09.027Z",
+      "updatedAt": "2026-08-29T03:50:09.027Z"
+    },
+    "doca-urom-svc": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/doca-urom-svc/SKILL.md",
+      "skillFolderHash": "d4dc49f98e415f757235731af58020f9218437c6",
+      "installedAt": "2026-08-29T03:50:09.028Z",
+      "updatedAt": "2026-08-29T03:50:09.028Z"
+    },
+    "doca-verbs": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/doca-verbs/SKILL.md",
+      "skillFolderHash": "b2ab97d8b2b7c16fc150a7163591a2f0e9a7dd80",
+      "installedAt": "2026-08-29T03:50:09.029Z",
+      "updatedAt": "2026-08-29T03:50:09.029Z"
+    },
+    "doca-version": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/doca-version/SKILL.md",
+      "skillFolderHash": "9a1082f10a5d4192804086b69e41746771dcfa83",
+      "installedAt": "2026-08-29T03:50:09.031Z",
+      "updatedAt": "2026-08-29T03:50:09.031Z"
+    },
+    "dynamo-interconnect-check": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/dynamo-interconnect-check/SKILL.md",
+      "skillFolderHash": "6837ee4fd8fbd5c5a1b963f2dc8a9e840072d063",
+      "installedAt": "2026-08-29T03:50:09.032Z",
+      "updatedAt": "2026-08-29T03:50:09.032Z"
+    },
+    "dynamo-recipe-runner": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/dynamo-recipe-runner/SKILL.md",
+      "skillFolderHash": "dcc676909160d5c38b612cf44d36f5c2b059df01",
+      "installedAt": "2026-08-29T03:50:09.033Z",
+      "updatedAt": "2026-08-29T03:50:09.033Z"
+    },
+    "dynamo-router-starter": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/dynamo-router-starter/SKILL.md",
+      "skillFolderHash": "acbe60ee11b9e7b66559bb4ed523fcb616fea764",
+      "installedAt": "2026-08-29T03:50:09.035Z",
+      "updatedAt": "2026-08-29T03:50:09.035Z"
+    },
+    "dynamo-troubleshoot": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/dynamo-troubleshoot/SKILL.md",
+      "skillFolderHash": "1986bf58c6eafad248b711a839f9d0a91211a8aa",
+      "installedAt": "2026-08-29T03:50:09.037Z",
+      "updatedAt": "2026-08-29T03:50:09.037Z"
+    },
+    "earth2studio-create-datasource": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/earth2studio-create-datasource/SKILL.md",
+      "skillFolderHash": "4b16ed70d54c85fdc1bc526e8a573e505d62baf5",
+      "installedAt": "2026-08-29T03:50:09.038Z",
+      "updatedAt": "2026-08-29T03:50:09.038Z"
+    },
+    "earth2studio-create-diagnostic": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/earth2studio-create-diagnostic/SKILL.md",
+      "skillFolderHash": "9cf9ecde75cfcf31a235fca2535a05d4d9ec92a9",
+      "installedAt": "2026-08-29T03:50:09.040Z",
+      "updatedAt": "2026-08-29T03:50:09.040Z"
+    },
+    "earth2studio-create-prognostic": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/earth2studio-create-prognostic/SKILL.md",
+      "skillFolderHash": "c2b2c34029e28b45d4f6fe587a2b173dd415b1c9",
+      "installedAt": "2026-08-29T03:50:09.042Z",
+      "updatedAt": "2026-08-29T03:50:09.042Z"
+    },
+    "earth2studio-data-fetch": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/earth2studio-data-fetch/SKILL.md",
+      "skillFolderHash": "29cb6449cda44a73352dbea9f5cc3be9e684b750",
+      "installedAt": "2026-08-29T03:50:09.043Z",
+      "updatedAt": "2026-08-29T03:50:09.043Z"
+    },
+    "earth2studio-deterministic-forecast": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/earth2studio-deterministic-forecast/SKILL.md",
+      "skillFolderHash": "2272ef17ff84a1219c98f670d31edfd6860e93c7",
+      "installedAt": "2026-08-29T03:50:09.045Z",
+      "updatedAt": "2026-08-29T03:50:09.045Z"
+    },
+    "earth2studio-discover": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/earth2studio-discover/SKILL.md",
+      "skillFolderHash": "c7b4257c345bf43b3d8878aae13ac73bd81732c1",
+      "installedAt": "2026-08-29T03:50:09.046Z",
+      "updatedAt": "2026-08-29T03:50:09.046Z"
+    },
+    "earth2studio-install": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/earth2studio-install/SKILL.md",
+      "skillFolderHash": "5ff976c4a2debaa35622009bc5bc8a591fa32094",
+      "installedAt": "2026-08-29T03:50:09.048Z",
+      "updatedAt": "2026-08-29T03:50:09.048Z"
+    },
+    "holohub-app-lifecycle": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/holohub-app-lifecycle/SKILL.md",
+      "skillFolderHash": "8694e20b34147100806e55abc0fa5efb530caf35",
+      "installedAt": "2026-08-29T03:50:09.049Z",
+      "updatedAt": "2026-08-29T03:50:09.049Z"
+    },
+    "holohub-debug-build-run": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/holohub-debug-build-run/SKILL.md",
+      "skillFolderHash": "991425d30610e0f794c72113ede321909c5bda0c",
+      "installedAt": "2026-08-29T03:50:09.050Z",
+      "updatedAt": "2026-08-29T03:50:09.050Z"
+    },
+    "holohub-module-lifecycle": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/holohub-module-lifecycle/SKILL.md",
+      "skillFolderHash": "8379112193609130c33a12a3b9ffba19edffc4f0",
+      "installedAt": "2026-08-29T03:50:09.052Z",
+      "updatedAt": "2026-08-29T03:50:09.052Z"
+    },
+    "holoscan-install-conda": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/holoscan-install-conda/SKILL.md",
+      "skillFolderHash": "95e13d50d083cebae5bfab6a4e46e485debb68b1",
+      "installedAt": "2026-08-29T03:50:09.055Z",
+      "updatedAt": "2026-08-29T03:50:09.055Z"
+    },
+    "holoscan-install-container": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/holoscan-install-container/SKILL.md",
+      "skillFolderHash": "4810af4f3fccb12f37ceef142a57b6ea45f750da",
+      "installedAt": "2026-08-29T03:50:09.057Z",
+      "updatedAt": "2026-08-29T03:50:09.057Z"
+    },
+    "holoscan-install-debian": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/holoscan-install-debian/SKILL.md",
+      "skillFolderHash": "d75ce7f89a6c3b0e2587f746485e08c10fa26302",
+      "installedAt": "2026-08-29T03:50:09.058Z",
+      "updatedAt": "2026-08-29T03:50:09.058Z"
+    },
+    "holoscan-install-source": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/holoscan-install-source/SKILL.md",
+      "skillFolderHash": "ca6fa9377bd6160acc243f0e96f9057052647a63",
+      "installedAt": "2026-08-29T03:50:09.060Z",
+      "updatedAt": "2026-08-29T03:50:09.060Z"
+    },
+    "holoscan-install-wheel": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/holoscan-install-wheel/SKILL.md",
+      "skillFolderHash": "a2f2d941b2571d713849ad815be2bacbdc6f7192",
+      "installedAt": "2026-08-29T03:50:09.061Z",
+      "updatedAt": "2026-08-29T03:50:09.061Z"
+    },
+    "holoscan-setup": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/holoscan-setup/SKILL.md",
+      "skillFolderHash": "4d09854988f22a3a1f8c8abb58b4bd645f7f48db",
+      "installedAt": "2026-08-29T03:50:09.062Z",
+      "updatedAt": "2026-08-29T03:50:09.062Z"
+    },
+    "hsb-app": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/hsb-app/SKILL.md",
+      "skillFolderHash": "fca0bd21a50516412acfd72232c73cb17cf4e423",
+      "installedAt": "2026-08-29T03:50:09.063Z",
+      "updatedAt": "2026-08-29T03:50:09.063Z"
+    },
+    "hsb-flash": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/hsb-flash/SKILL.md",
+      "skillFolderHash": "2717bbf642cc7519d36884aeaea36e3a3fb5936d",
+      "installedAt": "2026-08-29T03:50:09.065Z",
+      "updatedAt": "2026-08-29T03:50:09.065Z"
+    },
+    "hsb-ip-create-top": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/hsb-ip-create-top/SKILL.md",
+      "skillFolderHash": "70e04df194ec38c24fa4ef01a6bea3fb6f0e1219",
+      "installedAt": "2026-08-29T03:50:09.066Z",
+      "updatedAt": "2026-08-29T03:50:09.066Z"
+    },
+    "hsb-ip-def": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/hsb-ip-def/SKILL.md",
+      "skillFolderHash": "ac57dca68990452fa5b25e530adba0b013e4d9a0",
+      "installedAt": "2026-08-29T03:50:09.067Z",
+      "updatedAt": "2026-08-29T03:50:09.067Z"
+    },
+    "hsb-ip-packetizer": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/hsb-ip-packetizer/SKILL.md",
+      "skillFolderHash": "d4c11c78f27c83d1396ce8bf08272d314fc5ccaf",
+      "installedAt": "2026-08-29T03:50:09.068Z",
+      "updatedAt": "2026-08-29T03:50:09.068Z"
+    },
+    "hsb-setup": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/hsb-setup/SKILL.md",
+      "skillFolderHash": "8ebd8d858bfd07fbdb44150ac28783a9e36068ba",
+      "installedAt": "2026-08-29T03:50:09.069Z",
+      "updatedAt": "2026-08-29T03:50:09.069Z"
+    },
+    "hsb-test": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/hsb-test/SKILL.md",
+      "skillFolderHash": "19aecc0bb94bb9dba0f31df2fac60f6e051aae4b",
+      "installedAt": "2026-08-29T03:50:09.071Z",
+      "updatedAt": "2026-08-29T03:50:09.071Z"
+    },
+    "i4h-catheter-navigation": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/i4h-catheter-navigation/SKILL.md",
+      "skillFolderHash": "a4b68fee15ae77dcf9ced7c46c8c38a5aafcde70",
+      "installedAt": "2026-08-29T03:50:09.072Z",
+      "updatedAt": "2026-08-29T03:50:09.072Z"
+    },
+    "i4h-catheter-navigation-digital-twin": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/i4h-catheter-navigation-digital-twin/SKILL.md",
+      "skillFolderHash": "9af4a922fd445a98bbc2cf331d7b841d82e04dd6",
+      "installedAt": "2026-08-29T03:50:09.073Z",
+      "updatedAt": "2026-08-29T03:50:09.073Z"
+    },
+    "i4h-catheter-navigation-e2e": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/i4h-catheter-navigation-e2e/SKILL.md",
+      "skillFolderHash": "aef881c670374c2745d5c61e9b700aa54a157643",
+      "installedAt": "2026-08-29T03:50:09.075Z",
+      "updatedAt": "2026-08-29T03:50:09.075Z"
+    },
+    "i4h-catheter-navigation-render-drr": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/i4h-catheter-navigation-render-drr/SKILL.md",
+      "skillFolderHash": "0cf328db5b2440ba2fab3ad01d10e7de1b9571b6",
+      "installedAt": "2026-08-29T03:50:09.076Z",
+      "updatedAt": "2026-08-29T03:50:09.076Z"
+    },
+    "i4h-catheter-navigation-setup": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/i4h-catheter-navigation-setup/SKILL.md",
+      "skillFolderHash": "fc66be6fc26ab30a8b7fce082014fed68a49e8ef",
+      "installedAt": "2026-08-29T03:50:09.078Z",
+      "updatedAt": "2026-08-29T03:50:09.078Z"
+    },
+    "i4h-catheter-navigation-smoke": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/i4h-catheter-navigation-smoke/SKILL.md",
+      "skillFolderHash": "9bc8f4e90aec9bbe9b27107f7122ea1a0169b656",
+      "installedAt": "2026-08-29T03:50:09.080Z",
+      "updatedAt": "2026-08-29T03:50:09.080Z"
+    },
+    "i4h-catheter-navigation-viewport": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/i4h-catheter-navigation-viewport/SKILL.md",
+      "skillFolderHash": "a9eebc10149a8636a7094c36c65958d7eee80a89",
+      "installedAt": "2026-08-29T03:50:09.082Z",
+      "updatedAt": "2026-08-29T03:50:09.082Z"
+    },
+    "i4h-lerobot-viz": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/i4h-lerobot-viz/SKILL.md",
+      "skillFolderHash": "30b5edbc8c973eea6d66db5a313fde9537f4bbce",
+      "installedAt": "2026-08-29T03:50:09.084Z",
+      "updatedAt": "2026-08-29T03:50:09.084Z"
+    },
+    "i4h-workflow": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/i4h-workflow/SKILL.md",
+      "skillFolderHash": "727dfd8f965a8807c79b22287b80c8994d19e372",
+      "installedAt": "2026-08-29T03:50:09.085Z",
+      "updatedAt": "2026-08-29T03:50:09.085Z"
+    },
+    "i4h-workflow-create": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/i4h-workflow-create/SKILL.md",
+      "skillFolderHash": "559857e789d699349a773a293390585ecc7e6c4b",
+      "installedAt": "2026-08-29T03:50:09.087Z",
+      "updatedAt": "2026-08-29T03:50:09.087Z"
+    },
+    "i4h-workflow-dataset-annotate": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/i4h-workflow-dataset-annotate/SKILL.md",
+      "skillFolderHash": "18c626685ac500656c3e785d861f427817a091a1",
+      "installedAt": "2026-08-29T03:50:09.088Z",
+      "updatedAt": "2026-08-29T03:50:09.088Z"
+    },
+    "i4h-workflow-dataset-convert": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/i4h-workflow-dataset-convert/SKILL.md",
+      "skillFolderHash": "ee1d0fb4831a494edcff6817f10ace11da9179d0",
+      "installedAt": "2026-08-29T03:50:09.089Z",
+      "updatedAt": "2026-08-29T03:50:09.089Z"
+    },
+    "i4h-workflow-dataset-mimic": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/i4h-workflow-dataset-mimic/SKILL.md",
+      "skillFolderHash": "0e1d103ee6dae13f4d8a90f06a78a7b880c29835",
+      "installedAt": "2026-08-29T03:50:09.091Z",
+      "updatedAt": "2026-08-29T03:50:09.091Z"
+    },
+    "i4h-workflow-dataset-replay": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/i4h-workflow-dataset-replay/SKILL.md",
+      "skillFolderHash": "3c6d14150c57ca33989eda9aeab3b1316fe56c4c",
+      "installedAt": "2026-08-29T03:50:09.092Z",
+      "updatedAt": "2026-08-29T03:50:09.092Z"
+    },
+    "i4h-workflow-dataset-teleop": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/i4h-workflow-dataset-teleop/SKILL.md",
+      "skillFolderHash": "56509ad03a9e1465b58f91bd8a8b507b8d3044dc",
+      "installedAt": "2026-08-29T03:50:09.093Z",
+      "updatedAt": "2026-08-29T03:50:09.093Z"
+    },
+    "i4h-workflow-e2e": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/i4h-workflow-e2e/SKILL.md",
+      "skillFolderHash": "32597423ff9a2cdc1ae83575c557718fbf3d9bbd",
+      "installedAt": "2026-08-29T03:50:09.094Z",
+      "updatedAt": "2026-08-29T03:50:09.094Z"
+    },
+    "i4h-workflow-finetune": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/i4h-workflow-finetune/SKILL.md",
+      "skillFolderHash": "07594922a2cf09ab3ab192bfcda7c874b028f69d",
+      "installedAt": "2026-08-29T03:50:09.096Z",
+      "updatedAt": "2026-08-29T03:50:09.096Z"
+    },
+    "i4h-workflow-scene-edit": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/i4h-workflow-scene-edit/SKILL.md",
+      "skillFolderHash": "25cd8202ef1c8fcee050d681dd62a556f3611494",
+      "installedAt": "2026-08-29T03:50:09.099Z",
+      "updatedAt": "2026-08-29T03:50:09.099Z"
+    },
+    "i4h-workflow-setup": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/i4h-workflow-setup/SKILL.md",
+      "skillFolderHash": "edee46c9b0c778873e996e2442beec4380c40d2c",
+      "installedAt": "2026-08-29T03:50:09.101Z",
+      "updatedAt": "2026-08-29T03:50:09.101Z"
+    },
+    "i4h-workflow-validate": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/i4h-workflow-validate/SKILL.md",
+      "skillFolderHash": "6f3fd736bcda1d953cfdf368b1e2aedaaf07d7fb",
+      "installedAt": "2026-08-29T03:50:09.104Z",
+      "updatedAt": "2026-08-29T03:50:09.104Z"
+    },
+    "jetson-build-source": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/jetson-build-source/SKILL.md",
+      "skillFolderHash": "d9584d33694b5359e873deae080848454178ea9a",
+      "installedAt": "2026-08-29T03:50:09.105Z",
+      "updatedAt": "2026-08-29T03:50:09.105Z"
+    },
+    "jetson-customize-camera": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/jetson-customize-camera/SKILL.md",
+      "skillFolderHash": "49853008084e9b81aeaadc5f7cff792207828fd6",
+      "installedAt": "2026-08-29T03:50:09.107Z",
+      "updatedAt": "2026-08-29T03:50:09.107Z"
+    },
+    "jetson-customize-clocks": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/jetson-customize-clocks/SKILL.md",
+      "skillFolderHash": "3faf29e0c0c725a7283cfe7ee8c02d4bf2ebc4ba",
+      "installedAt": "2026-08-29T03:50:09.110Z",
+      "updatedAt": "2026-08-29T03:50:09.110Z"
+    },
+    "jetson-customize-fan": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/jetson-customize-fan/SKILL.md",
+      "skillFolderHash": "fb7f15bc266786f34b30fd971781d8a245932ebd",
+      "installedAt": "2026-08-29T03:50:09.111Z",
+      "updatedAt": "2026-08-29T03:50:09.111Z"
+    },
+    "jetson-customize-mgbe": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/jetson-customize-mgbe/SKILL.md",
+      "skillFolderHash": "d7e36a35ea2bd99b379a5bcc704a780c97c5293b",
+      "installedAt": "2026-08-29T03:50:09.112Z",
+      "updatedAt": "2026-08-29T03:50:09.112Z"
+    },
+    "jetson-customize-nvpmodel": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/jetson-customize-nvpmodel/SKILL.md",
+      "skillFolderHash": "67e35ffe34b17cb8f43bcc93154dfc12ea7fea89",
+      "installedAt": "2026-08-29T03:50:09.114Z",
+      "updatedAt": "2026-08-29T03:50:09.114Z"
+    },
+    "jetson-customize-pcie": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/jetson-customize-pcie/SKILL.md",
+      "skillFolderHash": "d3ca99569f5f19a68de16fb27938db3ee84d0aca",
+      "installedAt": "2026-08-29T03:50:09.116Z",
+      "updatedAt": "2026-08-29T03:50:09.116Z"
+    },
+    "jetson-customize-pinmux": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/jetson-customize-pinmux/SKILL.md",
+      "skillFolderHash": "4d7db94afb5604e605b0e357630aa83987e29b94",
+      "installedAt": "2026-08-29T03:50:09.117Z",
+      "updatedAt": "2026-08-29T03:50:09.117Z"
+    },
+    "jetson-customize-uphy": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/jetson-customize-uphy/SKILL.md",
+      "skillFolderHash": "3b9efcff9f169329250b70cf148ec7f9e2bdb7bc",
+      "installedAt": "2026-08-29T03:50:09.118Z",
+      "updatedAt": "2026-08-29T03:50:09.118Z"
+    },
+    "jetson-customize-usb": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/jetson-customize-usb/SKILL.md",
+      "skillFolderHash": "4a9ca5a8841b4b0a15532e86361dbe586c52af62",
+      "installedAt": "2026-08-29T03:50:09.120Z",
+      "updatedAt": "2026-08-29T03:50:09.120Z"
+    },
+    "jetson-derive-carrier": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/jetson-derive-carrier/SKILL.md",
+      "skillFolderHash": "8a91288273ec4fbbe7583f96426cfb6ac8b5b4de",
+      "installedAt": "2026-08-29T03:50:09.121Z",
+      "updatedAt": "2026-08-29T03:50:09.121Z"
+    },
+    "jetson-diagnostic": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/jetson-diagnostic/SKILL.md",
+      "skillFolderHash": "37a9700cce0ebfb3853d6125e1140475fe4fa438",
+      "installedAt": "2026-08-29T03:50:09.123Z",
+      "updatedAt": "2026-08-29T03:50:09.123Z"
+    },
+    "jetson-download-bsp": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/jetson-download-bsp/SKILL.md",
+      "skillFolderHash": "f7e7cf17893081847989ca0d6b6c860a39458278",
+      "installedAt": "2026-08-29T03:50:09.124Z",
+      "updatedAt": "2026-08-29T03:50:09.124Z"
+    },
+    "jetson-flash-image": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/jetson-flash-image/SKILL.md",
+      "skillFolderHash": "fbba695eddbde50d101f237dc2470895e9ac17e9",
+      "installedAt": "2026-08-29T03:50:09.133Z",
+      "updatedAt": "2026-08-29T03:50:09.133Z"
+    },
+    "jetson-generate-kb": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/jetson-generate-kb/SKILL.md",
+      "skillFolderHash": "7ce164023ae005744a330653704dc062d21deb68",
+      "installedAt": "2026-08-29T03:50:09.135Z",
+      "updatedAt": "2026-08-29T03:50:09.135Z"
+    },
+    "jetson-headless-mode": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/jetson-headless-mode/SKILL.md",
+      "skillFolderHash": "9458f07a5b4fc2d2fccda6c18274931240d6e773",
+      "installedAt": "2026-08-29T03:50:09.138Z",
+      "updatedAt": "2026-08-29T03:50:09.138Z"
+    },
+    "jetson-inference-mem-tune": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/jetson-inference-mem-tune/SKILL.md",
+      "skillFolderHash": "c878f669674162bd1f0d0fe927e079d3ef3694e0",
+      "installedAt": "2026-08-29T03:50:09.140Z",
+      "updatedAt": "2026-08-29T03:50:09.140Z"
+    },
+    "jetson-init-image": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/jetson-init-image/SKILL.md",
+      "skillFolderHash": "8b5173dc83b2ff39e58ba1e5dfc5d5dd602bfa4c",
+      "installedAt": "2026-08-29T03:50:09.141Z",
+      "updatedAt": "2026-08-29T03:50:09.141Z"
+    },
+    "jetson-init-source": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/jetson-init-source/SKILL.md",
+      "skillFolderHash": "bebb545561b94f5a8886c28772eb20a38bd1a237",
+      "installedAt": "2026-08-29T03:50:09.143Z",
+      "updatedAt": "2026-08-29T03:50:09.143Z"
+    },
+    "jetson-init-target": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/jetson-init-target/SKILL.md",
+      "skillFolderHash": "de318a0a0715b166c6ce59f70c8723b2695ed34b",
+      "installedAt": "2026-08-29T03:50:09.145Z",
+      "updatedAt": "2026-08-29T03:50:09.145Z"
+    },
+    "jetson-link-docs": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/jetson-link-docs/SKILL.md",
+      "skillFolderHash": "58d6a2705df628faa74e46a122a39ad60d83f236",
+      "installedAt": "2026-08-29T03:50:09.147Z",
+      "updatedAt": "2026-08-29T03:50:09.147Z"
+    },
+    "jetson-llm-benchmark": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/jetson-llm-benchmark/SKILL.md",
+      "skillFolderHash": "6cbd497a670ade8e237bfdafbbcf06825937dd40",
+      "installedAt": "2026-08-29T03:50:09.149Z",
+      "updatedAt": "2026-08-29T03:50:09.149Z"
+    },
+    "jetson-llm-serve": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/jetson-llm-serve/SKILL.md",
+      "skillFolderHash": "179d097cdcc9fff795dac4586a1416b7ce3b0093",
+      "installedAt": "2026-08-29T03:50:09.150Z",
+      "updatedAt": "2026-08-29T03:50:09.150Z"
+    },
+    "jetson-memory-audit": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/jetson-memory-audit/SKILL.md",
+      "skillFolderHash": "b545c7ff6533c802d0bcccb977533ecf684c7366",
+      "installedAt": "2026-08-29T03:50:09.154Z",
+      "updatedAt": "2026-08-29T03:50:09.154Z"
+    },
+    "jetson-optimize-memory": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/jetson-optimize-memory/SKILL.md",
+      "skillFolderHash": "918bda75ee8b55f1432ebc6baa460b1a2c433ef2",
+      "installedAt": "2026-08-29T03:50:09.156Z",
+      "updatedAt": "2026-08-29T03:50:09.156Z"
+    },
+    "jetson-package": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/jetson-package/SKILL.md",
+      "skillFolderHash": "4735064b0bc9f693b8a4efba9d41ff629ad05c66",
+      "installedAt": "2026-08-29T03:50:09.158Z",
+      "updatedAt": "2026-08-29T03:50:09.158Z"
+    },
+    "jetson-print-bsp-info": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/jetson-print-bsp-info/SKILL.md",
+      "skillFolderHash": "0e2dd29556086d0d5bd05cf7159367e67db70ef9",
+      "installedAt": "2026-08-29T03:50:09.160Z",
+      "updatedAt": "2026-08-29T03:50:09.160Z"
+    },
+    "jetson-print-device-info": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/jetson-print-device-info/SKILL.md",
+      "skillFolderHash": "b84a056104ed3a8a909c2ce23c10e963410c7821",
+      "installedAt": "2026-08-29T03:50:09.161Z",
+      "updatedAt": "2026-08-29T03:50:09.161Z"
+    },
+    "jetson-promote-image": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/jetson-promote-image/SKILL.md",
+      "skillFolderHash": "71bdd5b1264ad02c13ab10a9d433642216343a5a",
+      "installedAt": "2026-08-29T03:50:09.162Z",
+      "updatedAt": "2026-08-29T03:50:09.162Z"
+    },
+    "jetson-quick-start": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/jetson-quick-start/SKILL.md",
+      "skillFolderHash": "0c2424a5a5cfae731e84066c03083d537f6378c2",
+      "installedAt": "2026-08-29T03:50:09.163Z",
+      "updatedAt": "2026-08-29T03:50:09.163Z"
+    },
+    "jetson-set-target": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/jetson-set-target/SKILL.md",
+      "skillFolderHash": "8705f6475fa2d4eda2539fcc583b7176e24023e1",
+      "installedAt": "2026-08-29T03:50:09.165Z",
+      "updatedAt": "2026-08-29T03:50:09.165Z"
+    },
+    "jetson-speculative-decoding": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/jetson-speculative-decoding/SKILL.md",
+      "skillFolderHash": "a960b6d7c5da3f3efc9e009761475aab7a1c5408",
+      "installedAt": "2026-08-29T03:50:09.168Z",
+      "updatedAt": "2026-08-29T03:50:09.168Z"
+    },
+    "jetson-validate-image": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/jetson-validate-image/SKILL.md",
+      "skillFolderHash": "72e0e9de75a4e63bbb5fa3ad7252a069ca36cc4f",
+      "installedAt": "2026-08-29T03:50:09.170Z",
+      "updatedAt": "2026-08-29T03:50:09.170Z"
+    },
+    "jetson-video-benchmark": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/jetson-video-benchmark/SKILL.md",
+      "skillFolderHash": "82885df403222db95140e0de7296302b13c8bb89",
+      "installedAt": "2026-08-29T03:50:09.172Z",
+      "updatedAt": "2026-08-29T03:50:09.172Z"
+    },
+    "jetson-video-capability": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/jetson-video-capability/SKILL.md",
+      "skillFolderHash": "7bac6b6b599f5dc7f07eeeeb008dda3010ed0443",
+      "installedAt": "2026-08-29T03:50:09.173Z",
+      "updatedAt": "2026-08-29T03:50:09.173Z"
+    },
+    "jetson-video-pipeline": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/jetson-video-pipeline/SKILL.md",
+      "skillFolderHash": "85f9dff4ea921b813720cdb48eef3da147163406",
+      "installedAt": "2026-08-29T03:50:09.175Z",
+      "updatedAt": "2026-08-29T03:50:09.175Z"
+    },
+    "jetson-video-recipe": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/jetson-video-recipe/SKILL.md",
+      "skillFolderHash": "4c5589aec6fae16c46389020eab50eab8f0325d6",
+      "installedAt": "2026-08-29T03:50:09.177Z",
+      "updatedAt": "2026-08-29T03:50:09.177Z"
+    },
+    "jetson-video-setup": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/jetson-video-setup/SKILL.md",
+      "skillFolderHash": "4bd7d197b9f89291fe559dda0c52d3e03042bbae",
+      "installedAt": "2026-08-29T03:50:09.178Z",
+      "updatedAt": "2026-08-29T03:50:09.178Z"
+    },
+    "launch-nemo-rl": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/launch-nemo-rl/SKILL.md",
+      "skillFolderHash": "171ff6a19eb71388d7ac87699452e385b731db28",
+      "installedAt": "2026-08-29T03:50:09.185Z",
+      "updatedAt": "2026-08-29T03:50:09.185Z"
+    },
+    "mcore-create-issue": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/mcore-create-issue/SKILL.md",
+      "skillFolderHash": "ba0cde54220d7349f8a6ac88682c8f2bdc4b7b89",
+      "installedAt": "2026-08-29T03:50:09.187Z",
+      "updatedAt": "2026-08-29T03:50:09.187Z"
+    },
+    "mcore-linting-and-formatting": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/mcore-linting-and-formatting/SKILL.md",
+      "skillFolderHash": "e3fbe1fa9ba8e655c83f7cf9f7ebfba6074e1e20",
+      "installedAt": "2026-08-29T03:50:09.189Z",
+      "updatedAt": "2026-08-29T03:50:09.189Z"
+    },
+    "mcore-run-on-slurm": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/mcore-run-on-slurm/SKILL.md",
+      "skillFolderHash": "7afef0254b76b168832995fd9217cfc474a83341",
+      "installedAt": "2026-08-29T03:50:09.191Z",
+      "updatedAt": "2026-08-29T03:50:09.191Z"
+    },
+    "mcore-split-pr": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/mcore-split-pr/SKILL.md",
+      "skillFolderHash": "11b51590075f1a68a2b20a6de55ee942f9a54957",
+      "installedAt": "2026-08-29T03:50:09.193Z",
+      "updatedAt": "2026-08-29T03:50:09.193Z"
+    },
+    "mcore-testing": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/mcore-testing/SKILL.md",
+      "skillFolderHash": "2d33cdf72404def60247662262905f2d1adbbfd1",
+      "installedAt": "2026-08-29T03:50:09.194Z",
+      "updatedAt": "2026-08-29T03:50:09.194Z"
+    },
+    "nemo-automodel-distributed-training": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/nemo-automodel-distributed-training/SKILL.md",
+      "skillFolderHash": "42d4e045fb908af24a2863b5fbc3838ec5c54415",
+      "installedAt": "2026-08-29T03:50:09.196Z",
+      "updatedAt": "2026-08-29T03:50:09.196Z"
+    },
+    "nemo-automodel-launcher-config": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/nemo-automodel-launcher-config/SKILL.md",
+      "skillFolderHash": "be7ab26cd85fbabfec91e77e659d61570c882e6a",
+      "installedAt": "2026-08-29T03:50:09.197Z",
+      "updatedAt": "2026-08-29T03:50:09.197Z"
+    },
+    "nemo-automodel-model-onboarding": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/nemo-automodel-model-onboarding/SKILL.md",
+      "skillFolderHash": "ce48fc93c4bd7be90f3a69a13bf3c54f604b95ae",
+      "installedAt": "2026-08-29T03:50:09.198Z",
+      "updatedAt": "2026-08-29T03:50:09.198Z"
+    },
+    "nemo-automodel-recipe-development": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/nemo-automodel-recipe-development/SKILL.md",
+      "skillFolderHash": "654977c2ac0c0b571ec6d7206f9d07ee6c83dda7",
+      "installedAt": "2026-08-29T03:50:09.201Z",
+      "updatedAt": "2026-08-29T03:50:09.201Z"
+    },
+    "nemo-fabric-build-adapter": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/nemo-fabric-build-adapter/SKILL.md",
+      "skillFolderHash": "2351de6de60181b21272cb7fe00453aca6d31cd6",
+      "installedAt": "2026-08-29T03:50:09.203Z",
+      "updatedAt": "2026-08-29T03:50:09.203Z"
+    },
+    "nemo-fabric-integrate": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/nemo-fabric-integrate/SKILL.md",
+      "skillFolderHash": "b39ce80c3b4c2b7880d73240cbe90d6ce739de8e",
+      "installedAt": "2026-08-29T03:50:09.205Z",
+      "updatedAt": "2026-08-29T03:50:09.205Z"
+    },
+    "nemo-mbridge-mlm-bridge-training": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/nemo-mbridge-mlm-bridge-training/SKILL.md",
+      "skillFolderHash": "59f1953611b18ee70d179f516d301517d5944994",
+      "installedAt": "2026-08-29T03:50:09.206Z",
+      "updatedAt": "2026-08-29T03:50:09.206Z"
+    },
+    "nemo-mbridge-multi-node-slurm": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/nemo-mbridge-multi-node-slurm/SKILL.md",
+      "skillFolderHash": "fdf024fab00da102358f5ca1a88f59ff1cfc683d",
+      "installedAt": "2026-08-29T03:50:09.208Z",
+      "updatedAt": "2026-08-29T03:50:09.208Z"
+    },
+    "nemo-mbridge-perf-activation-recompute": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/nemo-mbridge-perf-activation-recompute/SKILL.md",
+      "skillFolderHash": "ab28647e130df4ebd8f8927069b7ae9b16b3c7dc",
+      "installedAt": "2026-08-29T03:50:09.209Z",
+      "updatedAt": "2026-08-29T03:50:09.209Z"
+    },
+    "nemo-mbridge-perf-cpu-offloading": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/nemo-mbridge-perf-cpu-offloading/SKILL.md",
+      "skillFolderHash": "8559f49a2695791f68302079aec94f6efc7c4332",
+      "installedAt": "2026-08-29T03:50:09.212Z",
+      "updatedAt": "2026-08-29T03:50:09.212Z"
+    },
+    "nemo-mbridge-perf-cuda-graphs": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/nemo-mbridge-perf-cuda-graphs/SKILL.md",
+      "skillFolderHash": "836327acac83cf18abd7b68279af20ffe3440c86",
+      "installedAt": "2026-08-29T03:50:09.214Z",
+      "updatedAt": "2026-08-29T03:50:09.214Z"
+    },
+    "nemo-mbridge-perf-expert-parallel-overlap": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/nemo-mbridge-perf-expert-parallel-overlap/SKILL.md",
+      "skillFolderHash": "7beda9562622b5b6557ba0618bc481c288acebb8",
+      "installedAt": "2026-08-29T03:50:09.218Z",
+      "updatedAt": "2026-08-29T03:50:09.218Z"
+    },
+    "nemo-mbridge-perf-hierarchical-context-parallel": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/nemo-mbridge-perf-hierarchical-context-parallel/SKILL.md",
+      "skillFolderHash": "d55fa3a47a7022d14dd0c2ac6432f88286523a81",
+      "installedAt": "2026-08-29T03:50:09.220Z",
+      "updatedAt": "2026-08-29T03:50:09.220Z"
+    },
+    "nemo-mbridge-perf-megatron-fsdp": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/nemo-mbridge-perf-megatron-fsdp/SKILL.md",
+      "skillFolderHash": "b9588f715f3bef491f853b806101ebf5e7a96050",
+      "installedAt": "2026-08-29T03:50:09.222Z",
+      "updatedAt": "2026-08-29T03:50:09.222Z"
+    },
+    "nemo-mbridge-perf-memory-tuning": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/nemo-mbridge-perf-memory-tuning/SKILL.md",
+      "skillFolderHash": "7c9cfe65530c0e128d34b2802c8b1fcba6561909",
+      "installedAt": "2026-08-29T03:50:09.224Z",
+      "updatedAt": "2026-08-29T03:50:09.224Z"
+    },
+    "nemo-mbridge-perf-moe-comm-overlap": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/nemo-mbridge-perf-moe-comm-overlap/SKILL.md",
+      "skillFolderHash": "db4e42dfd6c259d5d8bdc2dcf70ce6b45a334a4c",
+      "installedAt": "2026-08-29T03:50:09.225Z",
+      "updatedAt": "2026-08-29T03:50:09.225Z"
+    },
+    "nemo-mbridge-perf-moe-dispatcher-selection": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/nemo-mbridge-perf-moe-dispatcher-selection/SKILL.md",
+      "skillFolderHash": "35a10e69f09296ad6ea6cb71936f62434083860f",
+      "installedAt": "2026-08-29T03:50:09.227Z",
+      "updatedAt": "2026-08-29T03:50:09.227Z"
+    },
+    "nemo-mbridge-perf-moe-hardware-configs": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/nemo-mbridge-perf-moe-hardware-configs/SKILL.md",
+      "skillFolderHash": "ba87f2667af9bb0b711018571e6218f5c5e1cdd7",
+      "installedAt": "2026-08-29T03:50:09.229Z",
+      "updatedAt": "2026-08-29T03:50:09.229Z"
+    },
+    "nemo-mbridge-perf-moe-long-context": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/nemo-mbridge-perf-moe-long-context/SKILL.md",
+      "skillFolderHash": "74f2e45f67c1898ae6db0a3de3fe28c1a3536885",
+      "installedAt": "2026-08-29T03:50:09.230Z",
+      "updatedAt": "2026-08-29T03:50:09.230Z"
+    },
+    "nemo-mbridge-perf-moe-optimization-workflow": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/nemo-mbridge-perf-moe-optimization-workflow/SKILL.md",
+      "skillFolderHash": "ea6f92dea116918d8dfb5b9d31d0b5474474e4d7",
+      "installedAt": "2026-08-29T03:50:09.233Z",
+      "updatedAt": "2026-08-29T03:50:09.233Z"
+    },
+    "nemo-mbridge-perf-moe-vlm-training": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/nemo-mbridge-perf-moe-vlm-training/SKILL.md",
+      "skillFolderHash": "9d59860f3dda53681fdc7804f381442e335b0071",
+      "installedAt": "2026-08-29T03:50:09.237Z",
+      "updatedAt": "2026-08-29T03:50:09.237Z"
+    },
+    "nemo-mbridge-perf-parallelism-strategies": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/nemo-mbridge-perf-parallelism-strategies/SKILL.md",
+      "skillFolderHash": "b9eed23ea5ebbae00781d1315e78c854a27309a9",
+      "installedAt": "2026-08-29T03:50:09.238Z",
+      "updatedAt": "2026-08-29T03:50:09.238Z"
+    },
+    "nemo-mbridge-perf-sequence-packing": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/nemo-mbridge-perf-sequence-packing/SKILL.md",
+      "skillFolderHash": "46983777c00ead2f300f14822c900e44824c074a",
+      "installedAt": "2026-08-29T03:50:09.240Z",
+      "updatedAt": "2026-08-29T03:50:09.240Z"
+    },
+    "nemo-mbridge-perf-tp-dp-comm-overlap": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/nemo-mbridge-perf-tp-dp-comm-overlap/SKILL.md",
+      "skillFolderHash": "6a6f13e51b189a8bbec934694184571aa73ce547",
+      "installedAt": "2026-08-29T03:50:09.241Z",
+      "updatedAt": "2026-08-29T03:50:09.241Z"
+    },
+    "nemo-mbridge-recipe-recommender": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/nemo-mbridge-recipe-recommender/SKILL.md",
+      "skillFolderHash": "518d354dd461f040a2bba3ed2be72ad90b02f481",
+      "installedAt": "2026-08-29T03:50:09.243Z",
+      "updatedAt": "2026-08-29T03:50:09.243Z"
+    },
+    "nemo-mbridge-resiliency": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/nemo-mbridge-resiliency/SKILL.md",
+      "skillFolderHash": "1c0c773c11aaac4cc05df9f03732dbda2c296345",
+      "installedAt": "2026-08-29T03:50:09.244Z",
+      "updatedAt": "2026-08-29T03:50:09.244Z"
+    },
+    "nemo-relay-debug-runtime-integration": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/nemo-relay-debug-runtime-integration/SKILL.md",
+      "skillFolderHash": "7a0d6e27b95bbd8ff667e61ad6cd0e29cbe13769",
+      "installedAt": "2026-08-29T03:50:09.246Z",
+      "updatedAt": "2026-08-29T03:50:09.246Z"
+    },
+    "nemo-relay-get-started": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/nemo-relay-get-started/SKILL.md",
+      "skillFolderHash": "bde26583bdc85bf5f7f5c15c6a355986a840fc3b",
+      "installedAt": "2026-08-29T03:50:09.248Z",
+      "updatedAt": "2026-08-29T03:50:09.248Z"
+    },
+    "nemo-relay-install": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/nemo-relay-install/SKILL.md",
+      "skillFolderHash": "9f85f13efb602c69f9856228b45d10b86cfd88d0",
+      "installedAt": "2026-08-29T03:50:09.249Z",
+      "updatedAt": "2026-08-29T03:50:09.249Z"
+    },
+    "nemo-relay-instrument-calls": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/nemo-relay-instrument-calls/SKILL.md",
+      "skillFolderHash": "6b19b66173ed91eae8cf8345d92694507b8a4d1b",
+      "installedAt": "2026-08-29T03:50:09.251Z",
+      "updatedAt": "2026-08-29T03:50:09.251Z"
+    },
+    "nemo-relay-instrument-context-isolation": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/nemo-relay-instrument-context-isolation/SKILL.md",
+      "skillFolderHash": "d206a9c93a91767a62b9235c8be7ea20c5f74c52",
+      "installedAt": "2026-08-29T03:50:09.252Z",
+      "updatedAt": "2026-08-29T03:50:09.252Z"
+    },
+    "nemo-relay-instrument-typed-wrappers": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/nemo-relay-instrument-typed-wrappers/SKILL.md",
+      "skillFolderHash": "a818b3747113afcfccc8ca48fa086dc1f1f52dac",
+      "installedAt": "2026-08-29T03:50:09.254Z",
+      "updatedAt": "2026-08-29T03:50:09.254Z"
+    },
+    "nemo-relay-migrate-from-flow": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/nemo-relay-migrate-from-flow/SKILL.md",
+      "skillFolderHash": "f8332551e323314f335bb0b16b1355ed09030c82",
+      "installedAt": "2026-08-29T03:50:09.255Z",
+      "updatedAt": "2026-08-29T03:50:09.255Z"
+    },
+    "nemo-relay-plugin-adaptive-tuning": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/nemo-relay-plugin-adaptive-tuning/SKILL.md",
+      "skillFolderHash": "76653afabf383080ca119ba92f561f93b54fcec6",
+      "installedAt": "2026-08-29T03:50:09.257Z",
+      "updatedAt": "2026-08-29T03:50:09.257Z"
+    },
+    "nemo-relay-plugin-build": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/nemo-relay-plugin-build/SKILL.md",
+      "skillFolderHash": "f8bcea4fb2742250aea881a26c6364590d1e2a7e",
+      "installedAt": "2026-08-29T03:50:09.259Z",
+      "updatedAt": "2026-08-29T03:50:09.259Z"
+    },
+    "nemo-relay-plugin-observability": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/nemo-relay-plugin-observability/SKILL.md",
+      "skillFolderHash": "b6ad7bcad713597e4b02dde06943fba0cc59908b",
+      "installedAt": "2026-08-29T03:50:09.262Z",
+      "updatedAt": "2026-08-29T03:50:09.262Z"
+    },
+    "nemo-retriever": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/nemo-retriever/SKILL.md",
+      "skillFolderHash": "811858f06ad02822a8f67e7453d620e222dd6f7a",
+      "installedAt": "2026-08-29T03:50:09.263Z",
+      "updatedAt": "2026-08-29T03:50:09.263Z"
+    },
+    "nemo-rl-auto-research": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/nemo-rl-auto-research/SKILL.md",
+      "skillFolderHash": "6da51355f767c0687c8c9e7fc7b227114247a643",
+      "installedAt": "2026-08-29T03:50:09.265Z",
+      "updatedAt": "2026-08-29T03:50:09.265Z"
+    },
+    "nemo-rl-brev-etiquette": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/nemo-rl-brev-etiquette/SKILL.md",
+      "skillFolderHash": "5d562539c473b18743975c1955c012c08ea10e7b",
+      "installedAt": "2026-08-29T03:50:09.266Z",
+      "updatedAt": "2026-08-29T03:50:09.266Z"
+    },
+    "nemo-rl-docs": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/nemo-rl-docs/SKILL.md",
+      "skillFolderHash": "bf1236dbb3e05764d550ed28949e7b50e3075e83",
+      "installedAt": "2026-08-29T03:50:09.268Z",
+      "updatedAt": "2026-08-29T03:50:09.268Z"
+    },
+    "nemo-rl-session-memory": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/nemo-rl-session-memory/SKILL.md",
+      "skillFolderHash": "3cfa215b6aa550c3fd5a7a1dbc756c8bb44cc1d8",
+      "installedAt": "2026-08-29T03:50:09.273Z",
+      "updatedAt": "2026-08-29T03:50:09.273Z"
+    },
+    "nemoclaw-user-guide": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/nemoclaw-user-guide/SKILL.md",
+      "skillFolderHash": "c083eeafc284609e031814543a40e0add7069379",
+      "installedAt": "2026-08-29T03:50:09.276Z",
+      "updatedAt": "2026-08-29T03:50:09.276Z"
+    },
+    "nemotron-asr-finetune": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/nemotron-asr-finetune/SKILL.md",
+      "skillFolderHash": "1c4ea685d7759116bb14da06eaede0bc8ba89861",
+      "installedAt": "2026-08-29T03:50:09.278Z",
+      "updatedAt": "2026-08-29T03:50:09.278Z"
+    },
+    "nemotron-customize": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/nemotron-customize/SKILL.md",
+      "skillFolderHash": "a15c853a001a7187d81be7b403249a2a44ecdd91",
+      "installedAt": "2026-08-29T03:50:09.279Z",
+      "updatedAt": "2026-08-29T03:50:09.279Z"
+    },
+    "nemotron-policy-generator": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/nemotron-policy-generator/SKILL.md",
+      "skillFolderHash": "20897f64407a295ba68b8ea327403577eb8b37bf",
+      "installedAt": "2026-08-29T03:50:09.281Z",
+      "updatedAt": "2026-08-29T03:50:09.281Z"
+    },
+    "nemotron-retrieval-recipes": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/nemotron-retrieval-recipes/SKILL.md",
+      "skillFolderHash": "c433c68fc844ab8d16238454c1ba84ebdda5139c",
+      "installedAt": "2026-08-29T03:50:09.282Z",
+      "updatedAt": "2026-08-29T03:50:09.282Z"
+    },
+    "nemotron-speech": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/nemotron-speech/SKILL.md",
+      "skillFolderHash": "154dd181cdb71526d6e42daadcda86ad6e81f58c",
+      "installedAt": "2026-08-29T03:50:09.284Z",
+      "updatedAt": "2026-08-29T03:50:09.284Z"
+    },
+    "nv-generate-ct-rflow": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/nv-generate-ct-rflow/SKILL.md",
+      "skillFolderHash": "a47b9467d4f37fbbcd4e2bfd26265e7fc51d3ca3",
+      "installedAt": "2026-08-29T03:50:09.286Z",
+      "updatedAt": "2026-08-29T03:50:09.286Z"
+    },
+    "nv-generate-mr": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/nv-generate-mr/SKILL.md",
+      "skillFolderHash": "1b2a1024fe0c552e31ad8f9888372816b3ba72f3",
+      "installedAt": "2026-08-29T03:50:09.288Z",
+      "updatedAt": "2026-08-29T03:50:09.288Z"
+    },
+    "nv-generate-mr-brain": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/nv-generate-mr-brain/SKILL.md",
+      "skillFolderHash": "fc1d8af6765dd717b9c1fe304b8734bada414f98",
+      "installedAt": "2026-08-29T03:50:09.290Z",
+      "updatedAt": "2026-08-29T03:50:09.290Z"
+    },
+    "nv-generate-mr-brain-finetune": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/nv-generate-mr-brain-finetune/SKILL.md",
+      "skillFolderHash": "4336081b3aaab023a9b6fac3e83aa6039385c041",
+      "installedAt": "2026-08-29T03:50:09.292Z",
+      "updatedAt": "2026-08-29T03:50:09.292Z"
+    },
+    "nv-generate-vae-finetune": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/nv-generate-vae-finetune/SKILL.md",
+      "skillFolderHash": "e5dd2e80e8b243bf913c759f0a7ac6e67e227295",
+      "installedAt": "2026-08-29T03:50:09.294Z",
+      "updatedAt": "2026-08-29T03:50:09.294Z"
+    },
+    "nv-reason-cxr": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/nv-reason-cxr/SKILL.md",
+      "skillFolderHash": "31725a281d579958da2263eb66a0422cdbe5adc5",
+      "installedAt": "2026-08-29T03:50:09.295Z",
+      "updatedAt": "2026-08-29T03:50:09.295Z"
+    },
+    "nv-segment-ct": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/nv-segment-ct/SKILL.md",
+      "skillFolderHash": "ff5df76c9c0d774e670d73d7109e6c619a1ab58a",
+      "installedAt": "2026-08-29T03:50:09.298Z",
+      "updatedAt": "2026-08-29T03:50:09.298Z"
+    },
+    "nv-segment-ct-finetune": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/nv-segment-ct-finetune/SKILL.md",
+      "skillFolderHash": "a354dc66787daa96293cd681f85e145f6c10e448",
+      "installedAt": "2026-08-29T03:50:09.299Z",
+      "updatedAt": "2026-08-29T03:50:09.299Z"
+    },
+    "nv-segment-ctmr": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/nv-segment-ctmr/SKILL.md",
+      "skillFolderHash": "76880eda0e5a13285ac005275f9c55cfa7b89610",
+      "installedAt": "2026-08-29T03:50:09.301Z",
+      "updatedAt": "2026-08-29T03:50:09.301Z"
+    },
+    "nvidia-skill-finder": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/nvidia-skill-finder/SKILL.md",
+      "skillFolderHash": "93f566727a13bf1c998ff3cb309b73117a3dc173",
+      "installedAt": "2026-08-29T03:50:09.302Z",
+      "updatedAt": "2026-08-29T03:50:09.302Z"
+    },
+    "omniverse-cad-to-simready": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/omniverse-cad-to-simready/SKILL.md",
+      "skillFolderHash": "73e796d67fb09b8b41a251cd36aa53d7075822a0",
+      "installedAt": "2026-08-29T03:50:09.306Z",
+      "updatedAt": "2026-08-29T03:50:09.306Z"
+    },
+    "omniverse-realtime-viewer": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/omniverse-realtime-viewer/SKILL.md",
+      "skillFolderHash": "06ef898a72cc0a9f2bdb16c66578383c42841714",
+      "installedAt": "2026-08-29T03:50:09.308Z",
+      "updatedAt": "2026-08-29T03:50:09.308Z"
+    },
+    "omniverse-usd-performance-tuning": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/omniverse-usd-performance-tuning/SKILL.md",
+      "skillFolderHash": "b9d1a70eb914505e0a6f90023f59ec24cfa9194f",
+      "installedAt": "2026-08-29T03:50:09.310Z",
+      "updatedAt": "2026-08-29T03:50:09.310Z"
+    },
+    "paidf-anomalygen": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/paidf-anomalygen/SKILL.md",
+      "skillFolderHash": "360ab8b45bf7113a9be20965f291f6929eba9c25",
+      "installedAt": "2026-08-29T03:50:09.312Z",
+      "updatedAt": "2026-08-29T03:50:09.312Z"
+    },
+    "physical-ai-defect-image-generation": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/physical-ai-defect-image-generation/SKILL.md",
+      "skillFolderHash": "7528950c9f86b713406da6b9c0876cc6f23292a5",
+      "installedAt": "2026-08-29T03:50:09.314Z",
+      "updatedAt": "2026-08-29T03:50:09.314Z"
+    },
+    "physical-ai-image-attribute-augmentation": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/physical-ai-image-attribute-augmentation/SKILL.md",
+      "skillFolderHash": "e32ff8a007aaf8dda1df2f8a0bc52d7109119853",
+      "installedAt": "2026-08-29T03:50:09.315Z",
+      "updatedAt": "2026-08-29T03:50:09.315Z"
+    },
+    "physical-ai-infrastructure-setup-and-resilient-scaling": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/physical-ai-infrastructure-setup-and-resilient-scaling/SKILL.md",
+      "skillFolderHash": "bebc5f6b87e3a27122293dac827ab654db2deba1",
+      "installedAt": "2026-08-29T03:50:09.317Z",
+      "updatedAt": "2026-08-29T03:50:09.317Z"
+    },
+    "physical-ai-neural-reconstruction": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/physical-ai-neural-reconstruction/SKILL.md",
+      "skillFolderHash": "b4c062f15529736be5be282372f3666baf2bd822",
+      "installedAt": "2026-08-29T03:50:09.319Z",
+      "updatedAt": "2026-08-29T03:50:09.319Z"
+    },
+    "physical-ai-video-data-augmentation": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/physical-ai-video-data-augmentation/SKILL.md",
+      "skillFolderHash": "119fbfb3c56913d8b9ae0911909274a0368801e0",
+      "installedAt": "2026-08-29T03:50:09.322Z",
+      "updatedAt": "2026-08-29T03:50:09.322Z"
+    },
+    "physicsnemo-discover": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/physicsnemo-discover/SKILL.md",
+      "skillFolderHash": "a633db94cfc19ed43b5fe7d9f1e408fa9c7e1de8",
+      "installedAt": "2026-08-29T03:50:09.324Z",
+      "updatedAt": "2026-08-29T03:50:09.324Z"
+    },
+    "physicsnemo-shard-tensor": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/physicsnemo-shard-tensor/SKILL.md",
+      "skillFolderHash": "fa6cd1a36e55c652e5054c22c59e99fc8ab237ff",
+      "installedAt": "2026-08-29T03:50:09.326Z",
+      "updatedAt": "2026-08-29T03:50:09.326Z"
+    },
+    "portfolio-optimization": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/portfolio-optimization/SKILL.md",
+      "skillFolderHash": "e2713cc18760b55130fae8d2602c71fda06235cd",
+      "installedAt": "2026-08-29T03:50:09.328Z",
+      "updatedAt": "2026-08-29T03:50:09.328Z"
+    },
+    "rag-blueprint": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/rag-blueprint/SKILL.md",
+      "skillFolderHash": "503fc54816bdcf899828335b083daa85995c7d75",
+      "installedAt": "2026-08-29T03:50:09.330Z",
+      "updatedAt": "2026-08-29T03:50:09.330Z"
+    },
+    "rag-eval": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/rag-eval/SKILL.md",
+      "skillFolderHash": "cd77d9608930b1296e13951028409b782a2a73f4",
+      "installedAt": "2026-08-29T03:50:09.331Z",
+      "updatedAt": "2026-08-29T03:50:09.331Z"
+    },
+    "rag-perf": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/rag-perf/SKILL.md",
+      "skillFolderHash": "3ea593006da3fd49d03dfbeb188c130608076d7f",
+      "installedAt": "2026-08-29T03:50:09.333Z",
+      "updatedAt": "2026-08-29T03:50:09.333Z"
+    },
+    "rtvi-cv-customize-model": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/rtvi-cv-customize-model/SKILL.md",
+      "skillFolderHash": "25f50ea11437d864bcdba76109c270084567bc9c",
+      "installedAt": "2026-08-29T03:50:09.335Z",
+      "updatedAt": "2026-08-29T03:50:09.335Z"
+    },
+    "rtvi-cv-scaffold-vss-service": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/rtvi-cv-scaffold-vss-service/SKILL.md",
+      "skillFolderHash": "e2bf946b5eefec66d6b8c301aae74d4a3082f7bb",
+      "installedAt": "2026-08-29T03:50:09.338Z",
+      "updatedAt": "2026-08-29T03:50:09.338Z"
+    },
+    "rtvi-vlm-customize-model": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/rtvi-vlm-customize-model/SKILL.md",
+      "skillFolderHash": "4c88c27d7a1bb0bca00658468f9e49d73bae63b6",
+      "installedAt": "2026-08-29T03:50:09.340Z",
+      "updatedAt": "2026-08-29T03:50:09.340Z"
+    },
+    "skill-card-generator": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/skill-card-generator/SKILL.md",
+      "skillFolderHash": "79b550354cd82890fce3def5858ebf013aa076d9",
+      "installedAt": "2026-08-29T03:50:09.342Z",
+      "updatedAt": "2026-08-29T03:50:09.342Z"
+    },
+    "tao-analyze-changenet-rca": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/tao-analyze-changenet-rca/SKILL.md",
+      "skillFolderHash": "95638015dde71736da0bec41be3dc7dd36fa7098",
+      "installedAt": "2026-08-29T03:50:09.343Z",
+      "updatedAt": "2026-08-29T03:50:09.343Z"
+    },
+    "tao-analyze-gaps-visual-changenet": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/tao-analyze-gaps-visual-changenet/SKILL.md",
+      "skillFolderHash": "f1fe461741a4ffc07b0430ea6d7a5d0904336cc9",
+      "installedAt": "2026-08-29T03:50:09.345Z",
+      "updatedAt": "2026-08-29T03:50:09.345Z"
+    },
+    "tao-analyze-gaps-vlm-bcq": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/tao-analyze-gaps-vlm-bcq/SKILL.md",
+      "skillFolderHash": "8d4fc902586a7f393ff8b75725e47390022b3875",
+      "installedAt": "2026-08-29T03:50:09.347Z",
+      "updatedAt": "2026-08-29T03:50:09.347Z"
+    },
+    "tao-convert-dataset-format": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/tao-convert-dataset-format/SKILL.md",
+      "skillFolderHash": "72335182bcdae30f25f4c9a027ba6250fd441b47",
+      "installedAt": "2026-08-29T03:50:09.349Z",
+      "updatedAt": "2026-08-29T03:50:09.349Z"
+    },
+    "tao-finetune-clip": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/tao-finetune-clip/SKILL.md",
+      "skillFolderHash": "d7026d93eae0373d92c74d61d0bf216047943e81",
+      "installedAt": "2026-08-29T03:50:09.351Z",
+      "updatedAt": "2026-08-29T03:50:09.351Z"
+    },
+    "tao-finetune-cosmos-embed": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/tao-finetune-cosmos-embed/SKILL.md",
+      "skillFolderHash": "ddfb197fd9be71f1ae2740c1410f61bce6da8278",
+      "installedAt": "2026-08-29T03:50:09.354Z",
+      "updatedAt": "2026-08-29T03:50:09.354Z"
+    },
+    "tao-finetune-cosmos-reason": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/tao-finetune-cosmos-reason/SKILL.md",
+      "skillFolderHash": "6de7396077f26a8b30e03cf359dff753fcfef942",
+      "installedAt": "2026-08-29T03:50:09.357Z",
+      "updatedAt": "2026-08-29T03:50:09.357Z"
+    },
+    "tao-finetune-huggingface-model": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/tao-finetune-huggingface-model/SKILL.md",
+      "skillFolderHash": "20fddea0ef665f80902febeca43e6ef97a81449d",
+      "installedAt": "2026-08-29T03:50:09.359Z",
+      "updatedAt": "2026-08-29T03:50:09.359Z"
+    },
+    "tao-generate-image-grounding": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/tao-generate-image-grounding/SKILL.md",
+      "skillFolderHash": "01388b86a5936345a3d8caf8e162273643ea40c7",
+      "installedAt": "2026-08-29T03:50:09.365Z",
+      "updatedAt": "2026-08-29T03:50:09.365Z"
+    },
+    "tao-generate-referring-expressions": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/tao-generate-referring-expressions/SKILL.md",
+      "skillFolderHash": "e3fbd171f4c0adbdaf100da6a6a66d4a10b5298b",
+      "installedAt": "2026-08-29T03:50:09.366Z",
+      "updatedAt": "2026-08-29T03:50:09.366Z"
+    },
+    "tao-generate-video-reasoning-annotations": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/tao-generate-video-reasoning-annotations/SKILL.md",
+      "skillFolderHash": "27958b00f55d8885ce4c3452596a7a96d432bcc4",
+      "installedAt": "2026-08-29T03:50:09.373Z",
+      "updatedAt": "2026-08-29T03:50:09.373Z"
+    },
+    "tao-launch-workflow": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/tao-launch-workflow/SKILL.md",
+      "skillFolderHash": "01393240168814441ef03d3267b1de116412c049",
+      "installedAt": "2026-08-29T03:50:09.378Z",
+      "updatedAt": "2026-08-29T03:50:09.378Z"
+    },
+    "tao-list-capabilities": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/tao-list-capabilities/SKILL.md",
+      "skillFolderHash": "a0a9cb5a4e0f9680e06eeb8c51f7d02d9f56badb",
+      "installedAt": "2026-08-29T03:50:09.388Z",
+      "updatedAt": "2026-08-29T03:50:09.388Z"
+    },
+    "tao-mine-aoi-images": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/tao-mine-aoi-images/SKILL.md",
+      "skillFolderHash": "5529782e7b28d06b1b944953d411ed8f32f0762e",
+      "installedAt": "2026-08-29T03:50:09.390Z",
+      "updatedAt": "2026-08-29T03:50:09.390Z"
+    },
+    "tao-port-huggingface-model": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/tao-port-huggingface-model/SKILL.md",
+      "skillFolderHash": "9e32acc336ed2880f8144a561cd8fe8c6ec2676f",
+      "installedAt": "2026-08-29T03:50:09.392Z",
+      "updatedAt": "2026-08-29T03:50:09.392Z"
+    },
+    "tao-route-visual-changenet-samples": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/tao-route-visual-changenet-samples/SKILL.md",
+      "skillFolderHash": "291282f2d509f40cf9589e03fa6a45e6cd827e9d",
+      "installedAt": "2026-08-29T03:50:09.395Z",
+      "updatedAt": "2026-08-29T03:50:09.395Z"
+    },
+    "tao-run-automl": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/tao-run-automl/SKILL.md",
+      "skillFolderHash": "eb3691bfd628ea7220a00c0a12c7573c2962af67",
+      "installedAt": "2026-08-29T03:50:09.398Z",
+      "updatedAt": "2026-08-29T03:50:09.398Z"
+    },
+    "tao-run-automl-deft-pipeline": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/tao-run-automl-deft-pipeline/SKILL.md",
+      "skillFolderHash": "cc1e9aa7789640075f50305196c2375ceea3a953",
+      "installedAt": "2026-08-29T03:50:09.400Z",
+      "updatedAt": "2026-08-29T03:50:09.400Z"
+    },
+    "tao-run-deft-aoi": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/tao-run-deft-aoi/SKILL.md",
+      "skillFolderHash": "1c9e5b203c4c2a7890dceae7a098f5df83f66f7c",
+      "installedAt": "2026-08-29T03:50:09.402Z",
+      "updatedAt": "2026-08-29T03:50:09.402Z"
+    },
+    "tao-run-inference-service": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/tao-run-inference-service/SKILL.md",
+      "skillFolderHash": "cdc8f0aaabe1208ee7514bc799d2bb6a48b42cd5",
+      "installedAt": "2026-08-29T03:50:09.404Z",
+      "updatedAt": "2026-08-29T03:50:09.404Z"
+    },
+    "tao-run-on-brev": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/tao-run-on-brev/SKILL.md",
+      "skillFolderHash": "962eb86f4b04638ed50345424150a1ade56aabe8",
+      "installedAt": "2026-08-29T03:50:09.407Z",
+      "updatedAt": "2026-08-29T03:50:09.407Z"
+    },
+    "tao-run-on-docker": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/tao-run-on-docker/SKILL.md",
+      "skillFolderHash": "ac6c85ffa59570cabe93d3c0cd2fcd62bad75ec6",
+      "installedAt": "2026-08-29T03:50:09.415Z",
+      "updatedAt": "2026-08-29T03:50:09.415Z"
+    },
+    "tao-run-on-kubernetes": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/tao-run-on-kubernetes/SKILL.md",
+      "skillFolderHash": "b36546360292058b419426dc6e927bd5e08efbe2",
+      "installedAt": "2026-08-29T03:50:09.419Z",
+      "updatedAt": "2026-08-29T03:50:09.419Z"
+    },
+    "tao-run-on-local-docker": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/tao-run-on-local-docker/SKILL.md",
+      "skillFolderHash": "7baf3606a6d67aca732b8e69cc310861df412953",
+      "installedAt": "2026-08-29T03:50:09.422Z",
+      "updatedAt": "2026-08-29T03:50:09.422Z"
+    },
+    "tao-run-on-slurm": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/tao-run-on-slurm/SKILL.md",
+      "skillFolderHash": "92332cb2c2d4c893a18414572269e60e509ba795",
+      "installedAt": "2026-08-29T03:50:09.425Z",
+      "updatedAt": "2026-08-29T03:50:09.425Z"
+    },
+    "tao-run-platform": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/tao-run-platform/SKILL.md",
+      "skillFolderHash": "a9f131f36483bba3ca7604af52d805c89e27e547",
+      "installedAt": "2026-08-29T03:50:09.428Z",
+      "updatedAt": "2026-08-29T03:50:09.428Z"
+    },
+    "tao-setup-nvidia-gpu-host": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/tao-setup-nvidia-gpu-host/SKILL.md",
+      "skillFolderHash": "2b1d80307973087baf51fa187e8a32a9f625d664",
+      "installedAt": "2026-08-29T03:50:09.431Z",
+      "updatedAt": "2026-08-29T03:50:09.431Z"
+    },
+    "tao-train-action-recognition": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/tao-train-action-recognition/SKILL.md",
+      "skillFolderHash": "4012cdcf3e276fb3bb378631e4af68d4737f3b95",
+      "installedAt": "2026-08-29T03:50:09.433Z",
+      "updatedAt": "2026-08-29T03:50:09.433Z"
+    },
+    "tao-train-bevfusion": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/tao-train-bevfusion/SKILL.md",
+      "skillFolderHash": "70aa45f47ed32eb662eacd95c8780761bb1f9aff",
+      "installedAt": "2026-08-29T03:50:09.435Z",
+      "updatedAt": "2026-08-29T03:50:09.435Z"
+    },
+    "tao-train-centerpose": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/tao-train-centerpose/SKILL.md",
+      "skillFolderHash": "71bcbebc1999fc1fc800f98fdde4f5d7e415bff2",
+      "installedAt": "2026-08-29T03:50:09.438Z",
+      "updatedAt": "2026-08-29T03:50:09.438Z"
+    },
+    "tao-train-deformable-detr": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/tao-train-deformable-detr/SKILL.md",
+      "skillFolderHash": "4dfc7d572c69f1107c0fb8bf46a75bf92047d202",
+      "installedAt": "2026-08-29T03:50:09.440Z",
+      "updatedAt": "2026-08-29T03:50:09.440Z"
+    },
+    "tao-train-depth-anything-v2": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/tao-train-depth-anything-v2/SKILL.md",
+      "skillFolderHash": "edc9371edcc83a325702aaa0be46daa918ec708d",
+      "installedAt": "2026-08-29T03:50:09.443Z",
+      "updatedAt": "2026-08-29T03:50:09.443Z"
+    },
+    "tao-train-dino": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/tao-train-dino/SKILL.md",
+      "skillFolderHash": "f28ff30534c152750de829448a1a116c215cbb92",
+      "installedAt": "2026-08-29T03:50:09.445Z",
+      "updatedAt": "2026-08-29T03:50:09.445Z"
+    },
+    "tao-train-fast-foundation-stereo": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/tao-train-fast-foundation-stereo/SKILL.md",
+      "skillFolderHash": "54a5723e9410e506b8f4e74a514a57d1ff0fc185",
+      "installedAt": "2026-08-29T03:50:09.447Z",
+      "updatedAt": "2026-08-29T03:50:09.447Z"
+    },
+    "tao-train-foundation-stereo": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/tao-train-foundation-stereo/SKILL.md",
+      "skillFolderHash": "a5f296474bf7ad28d38d0865e800d5c1004e737a",
+      "installedAt": "2026-08-29T03:50:09.448Z",
+      "updatedAt": "2026-08-29T03:50:09.448Z"
+    },
+    "tao-train-grounding-dino": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/tao-train-grounding-dino/SKILL.md",
+      "skillFolderHash": "bfa87e9b8792f977b1b928f7d6546dcd0fe0bede",
+      "installedAt": "2026-08-29T03:50:09.450Z",
+      "updatedAt": "2026-08-29T03:50:09.450Z"
+    },
+    "tao-train-image-classification": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/tao-train-image-classification/SKILL.md",
+      "skillFolderHash": "b1697f630db017cbf4edc10a885b8ec45847736c",
+      "installedAt": "2026-08-29T03:50:09.452Z",
+      "updatedAt": "2026-08-29T03:50:09.452Z"
+    },
+    "tao-train-mask-auto-encoder": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/tao-train-mask-auto-encoder/SKILL.md",
+      "skillFolderHash": "7d2e050a36bbefbf1526dd14a10144e28ff085b9",
+      "installedAt": "2026-08-29T03:50:09.455Z",
+      "updatedAt": "2026-08-29T03:50:09.455Z"
+    },
+    "tao-train-mask-auto-label": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/tao-train-mask-auto-label/SKILL.md",
+      "skillFolderHash": "6b06074265e3ae9fde02e679bd4cb1ade04782ed",
+      "installedAt": "2026-08-29T03:50:09.457Z",
+      "updatedAt": "2026-08-29T03:50:09.457Z"
+    },
+    "tao-train-mask-grounding-dino": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/tao-train-mask-grounding-dino/SKILL.md",
+      "skillFolderHash": "61d9d9b0dfe9a6835ee0544e1f4471f705ae1041",
+      "installedAt": "2026-08-29T03:50:09.459Z",
+      "updatedAt": "2026-08-29T03:50:09.459Z"
+    },
+    "tao-train-mask2former": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/tao-train-mask2former/SKILL.md",
+      "skillFolderHash": "44bcf2e1e24dbfe06ec5f5d358c9b8d2bb646e69",
+      "installedAt": "2026-08-29T03:50:09.461Z",
+      "updatedAt": "2026-08-29T03:50:09.461Z"
+    },
+    "tao-train-metric-learning-recognition": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/tao-train-metric-learning-recognition/SKILL.md",
+      "skillFolderHash": "30d7872073791a4c6e6af5051e1d1b7689daafce",
+      "installedAt": "2026-08-29T03:50:09.463Z",
+      "updatedAt": "2026-08-29T03:50:09.463Z"
+    },
+    "tao-train-nvdinov2": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/tao-train-nvdinov2/SKILL.md",
+      "skillFolderHash": "f1dda2a9eb704590ac9c4ea44202edb561ebd22c",
+      "installedAt": "2026-08-29T03:50:09.465Z",
+      "updatedAt": "2026-08-29T03:50:09.465Z"
+    },
+    "tao-train-nvpanoptix3d": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/tao-train-nvpanoptix3d/SKILL.md",
+      "skillFolderHash": "a781de90f77f535677c8b3cc858ef646d608cafa",
+      "installedAt": "2026-08-29T03:50:09.467Z",
+      "updatedAt": "2026-08-29T03:50:09.467Z"
+    },
+    "tao-train-ocdnet": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/tao-train-ocdnet/SKILL.md",
+      "skillFolderHash": "3aa03a3cd68a00fed42a0d5f2a1edb9f714e9dcb",
+      "installedAt": "2026-08-29T03:50:09.469Z",
+      "updatedAt": "2026-08-29T03:50:09.469Z"
+    },
+    "tao-train-ocrnet": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/tao-train-ocrnet/SKILL.md",
+      "skillFolderHash": "00916b14f4ccf2e463ba648666f6a434fe4265d4",
+      "installedAt": "2026-08-29T03:50:09.472Z",
+      "updatedAt": "2026-08-29T03:50:09.472Z"
+    },
+    "tao-train-oneformer": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/tao-train-oneformer/SKILL.md",
+      "skillFolderHash": "0f7779db71727b7e99fde7a5b3c8c85d2858046f",
+      "installedAt": "2026-08-29T03:50:09.474Z",
+      "updatedAt": "2026-08-29T03:50:09.474Z"
+    },
+    "tao-train-optical-inspection": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/tao-train-optical-inspection/SKILL.md",
+      "skillFolderHash": "bcdc7e3d35a39932a4914f1bfa5b6c493e9f904f",
+      "installedAt": "2026-08-29T03:50:09.476Z",
+      "updatedAt": "2026-08-29T03:50:09.476Z"
+    },
+    "tao-train-pointpillars": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/tao-train-pointpillars/SKILL.md",
+      "skillFolderHash": "14d942683a44c9e9026eb3982df6669f089585d3",
+      "installedAt": "2026-08-29T03:50:09.479Z",
+      "updatedAt": "2026-08-29T03:50:09.479Z"
+    },
+    "tao-train-pose-classification": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/tao-train-pose-classification/SKILL.md",
+      "skillFolderHash": "ff24d8a485edc33b4f744bb34bb7016f8127120e",
+      "installedAt": "2026-08-29T03:50:09.480Z",
+      "updatedAt": "2026-08-29T03:50:09.480Z"
+    },
+    "tao-train-reid": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/tao-train-reid/SKILL.md",
+      "skillFolderHash": "46f005b42ecf30738ae5a2a113a15b8911482314",
+      "installedAt": "2026-08-29T03:50:09.482Z",
+      "updatedAt": "2026-08-29T03:50:09.482Z"
+    },
+    "tao-train-rtdetr": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/tao-train-rtdetr/SKILL.md",
+      "skillFolderHash": "a24b1b5e06700637573d4692d5e8a79bf2b77503",
+      "installedAt": "2026-08-29T03:50:09.484Z",
+      "updatedAt": "2026-08-29T03:50:09.484Z"
+    },
+    "tao-train-segformer": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/tao-train-segformer/SKILL.md",
+      "skillFolderHash": "cecd8a19e4a0f7b22d44815c6a1e54e4082690d6",
+      "installedAt": "2026-08-29T03:50:09.486Z",
+      "updatedAt": "2026-08-29T03:50:09.486Z"
+    },
+    "tao-train-single-step": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/tao-train-single-step/SKILL.md",
+      "skillFolderHash": "0dfe7a8e342fde1370be67a9143468bc7da4f230",
+      "installedAt": "2026-08-29T03:50:09.489Z",
+      "updatedAt": "2026-08-29T03:50:09.489Z"
+    },
+    "tao-train-sparse4d": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/tao-train-sparse4d/SKILL.md",
+      "skillFolderHash": "70f30438bcc98d9afb5f940832bb2ee3a634aa98",
+      "installedAt": "2026-08-29T03:50:09.491Z",
+      "updatedAt": "2026-08-29T03:50:09.491Z"
+    },
+    "tao-train-visual-changenet": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/tao-train-visual-changenet/SKILL.md",
+      "skillFolderHash": "1ad68d96789d13d7b0c0e10a6a4814d5046f5400",
+      "installedAt": "2026-08-29T03:50:09.493Z",
+      "updatedAt": "2026-08-29T03:50:09.493Z"
+    },
+    "tao-validate-dataset-format": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/tao-validate-dataset-format/SKILL.md",
+      "skillFolderHash": "f5ce8904f3579b37cd5d4e19dfd92ef322d5a9c5",
+      "installedAt": "2026-08-29T03:50:09.495Z",
+      "updatedAt": "2026-08-29T03:50:09.495Z"
+    },
+    "tilegym-adding-cutile-kernel": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/tilegym-adding-cutile-kernel/SKILL.md",
+      "skillFolderHash": "235ee6987137c5fe21623b6d567bf4b647e19281",
+      "installedAt": "2026-08-29T03:50:09.498Z",
+      "updatedAt": "2026-08-29T03:50:09.498Z"
+    },
+    "tilegym-converting-cutile-to-julia": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/tilegym-converting-cutile-to-julia/SKILL.md",
+      "skillFolderHash": "9cff03c31accc17237e9350c1bc1e5d654c7913d",
+      "installedAt": "2026-08-29T03:50:09.500Z",
+      "updatedAt": "2026-08-29T03:50:09.500Z"
+    },
+    "tilegym-converting-cutile-to-triton": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/tilegym-converting-cutile-to-triton/SKILL.md",
+      "skillFolderHash": "f185af5095d360a054d124363c60d31aced20e7b",
+      "installedAt": "2026-08-29T03:50:09.502Z",
+      "updatedAt": "2026-08-29T03:50:09.502Z"
+    },
+    "tilegym-cutile-autotuning": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/tilegym-cutile-autotuning/SKILL.md",
+      "skillFolderHash": "f0b418265faedbeceac88e0b99445cf36fac97d9",
+      "installedAt": "2026-08-29T03:50:09.504Z",
+      "updatedAt": "2026-08-29T03:50:09.504Z"
+    },
+    "tilegym-cutile-python": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/tilegym-cutile-python/SKILL.md",
+      "skillFolderHash": "097a001ca1a669b4dc3479962e58e660f81603fa",
+      "installedAt": "2026-08-29T03:50:09.507Z",
+      "updatedAt": "2026-08-29T03:50:09.507Z"
+    },
+    "tilegym-improve-cutile-kernel-perf": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/tilegym-improve-cutile-kernel-perf/SKILL.md",
+      "skillFolderHash": "9c4c8eefc0d7a057ff785981535a1f67b4658285",
+      "installedAt": "2026-08-29T03:50:09.509Z",
+      "updatedAt": "2026-08-29T03:50:09.509Z"
+    },
+    "tilegym-monkey-patch-kernels-to-transformers": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/tilegym-monkey-patch-kernels-to-transformers/SKILL.md",
+      "skillFolderHash": "91e7807ea0495a12ed62597965e23a4c6adb7110",
+      "installedAt": "2026-08-29T03:50:09.511Z",
+      "updatedAt": "2026-08-29T03:50:09.511Z"
+    },
+    "vss-ask-video": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/vss-ask-video/SKILL.md",
+      "skillFolderHash": "61b64966b15fab4a7e68e6197d169adb7abe1ad0",
+      "installedAt": "2026-08-29T03:50:09.513Z",
+      "updatedAt": "2026-08-29T03:50:09.513Z"
+    },
+    "vss-deploy-dense-captioning": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/vss-deploy-dense-captioning/SKILL.md",
+      "skillFolderHash": "7840a444cd7cd9b9c65ac21cb9d87b66789ac27c",
+      "installedAt": "2026-08-29T03:50:09.515Z",
+      "updatedAt": "2026-08-29T03:50:09.515Z"
+    },
+    "vss-deploy-detection-tracking-2d": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/vss-deploy-detection-tracking-2d/SKILL.md",
+      "skillFolderHash": "2f733ec78ef3c02ae4272e5960c83f21e89f785c",
+      "installedAt": "2026-08-29T03:50:09.517Z",
+      "updatedAt": "2026-08-29T03:50:09.517Z"
+    },
+    "vss-deploy-detection-tracking-3d": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/vss-deploy-detection-tracking-3d/SKILL.md",
+      "skillFolderHash": "2b58fa2537c9360d3deb8e467a0e5175c7909914",
+      "installedAt": "2026-08-29T03:50:09.518Z",
+      "updatedAt": "2026-08-29T03:50:09.518Z"
+    },
+    "vss-deploy-profile": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/vss-deploy-profile/SKILL.md",
+      "skillFolderHash": "512fddeee4d6a3df4389bcace5ebe04befabcf8e",
+      "installedAt": "2026-08-29T03:50:09.520Z",
+      "updatedAt": "2026-08-29T03:50:09.520Z"
+    },
+    "vss-deploy-video-embedding": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/vss-deploy-video-embedding/SKILL.md",
+      "skillFolderHash": "2f23e4090d2f68665336f2ca6928cacc70e1d6f7",
+      "installedAt": "2026-08-29T03:50:09.524Z",
+      "updatedAt": "2026-08-29T03:50:09.524Z"
+    },
+    "vss-generate-video-calibration": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/vss-generate-video-calibration/SKILL.md",
+      "skillFolderHash": "b571c0659e819dd2b93d6ab80be8ca464060fe90",
+      "installedAt": "2026-08-29T03:50:09.526Z",
+      "updatedAt": "2026-08-29T03:50:09.526Z"
+    },
+    "vss-generate-video-report": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/vss-generate-video-report/SKILL.md",
+      "skillFolderHash": "06b8b7e57603638921bf49035407d1b32c6821c8",
+      "installedAt": "2026-08-29T03:50:09.527Z",
+      "updatedAt": "2026-08-29T03:50:09.527Z"
+    },
+    "vss-manage-alerts": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/vss-manage-alerts/SKILL.md",
+      "skillFolderHash": "50f3bbba6219079aaec1fb926ac280f4f6606fdf",
+      "installedAt": "2026-08-29T03:50:09.529Z",
+      "updatedAt": "2026-08-29T03:50:09.529Z"
+    },
+    "vss-manage-video-io-storage": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/vss-manage-video-io-storage/SKILL.md",
+      "skillFolderHash": "fb23adc212388a0fea28ec85fa63b9b75d9976d2",
+      "installedAt": "2026-08-29T03:50:09.531Z",
+      "updatedAt": "2026-08-29T03:50:09.531Z"
+    },
+    "vss-query-analytics": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/vss-query-analytics/SKILL.md",
+      "skillFolderHash": "4d252bdc3af4b2f57bbc5a844ad61c2a5b451d89",
+      "installedAt": "2026-08-29T03:50:09.533Z",
+      "updatedAt": "2026-08-29T03:50:09.533Z"
+    },
+    "vss-search-archive": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/vss-search-archive/SKILL.md",
+      "skillFolderHash": "e53f9470e067717a97d156b3a3d822d172c87d8d",
+      "installedAt": "2026-08-29T03:50:09.535Z",
+      "updatedAt": "2026-08-29T03:50:09.535Z"
+    },
+    "vss-setup-behavior-analytics": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/vss-setup-behavior-analytics/SKILL.md",
+      "skillFolderHash": "06333bd58d49ec0b8e2842cae56fb82e027956ed",
+      "installedAt": "2026-08-29T03:50:09.537Z",
+      "updatedAt": "2026-08-29T03:50:09.537Z"
+    },
+    "vss-setup-video-analytics-api": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/vss-setup-video-analytics-api/SKILL.md",
+      "skillFolderHash": "5370e300a383e8a016caa2b9f3ae457ab0b2c2c4",
+      "installedAt": "2026-08-29T03:50:09.540Z",
+      "updatedAt": "2026-08-29T03:50:09.540Z"
+    },
+    "vss-summarize-video": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/vss-summarize-video/SKILL.md",
+      "skillFolderHash": "4a1aa9773f4e3cec7cd6add3ee3dfb69c1dc397a",
+      "installedAt": "2026-08-29T03:50:09.541Z",
+      "updatedAt": "2026-08-29T03:50:09.541Z"
+    },
+    "warp-compile-time-optimizer": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/warp-compile-time-optimizer/SKILL.md",
+      "skillFolderHash": "b70a636efc6ee02917a10ce4ce510cdeebd3e909",
+      "installedAt": "2026-08-29T03:50:09.544Z",
+      "updatedAt": "2026-08-29T03:50:09.544Z"
+    },
+    "warp-debug-gradients": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/warp-debug-gradients/SKILL.md",
+      "skillFolderHash": "478c1866c424199bdb7c34fb6e7fcf9210d2b612",
+      "installedAt": "2026-08-29T03:50:09.552Z",
+      "updatedAt": "2026-08-29T03:50:09.552Z"
+    },
+    "warp-eval": {
+      "source": "NVIDIA/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/NVIDIA/skills.git",
+      "skillPath": "skills/warp-eval/SKILL.md",
+      "skillFolderHash": "894e948dce1da581529bfa252cdce5a3bbe33de6",
+      "installedAt": "2026-08-29T03:50:09.557Z",
+      "updatedAt": "2026-08-29T03:50:09.557Z"
     }
   },
   "dismissed": {
